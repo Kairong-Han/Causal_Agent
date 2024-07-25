@@ -1,0 +1,6 @@
+Graph Nodes:
+Downselling;Subscription Models;Corporate Reputation;Product Bundling;Marketing Mix;Corporate Communications;Sales Enablement
+
+Graph Edges:
+1. Downselling --- Subscription Models
+2. Product Bundling --- Corporate Communications

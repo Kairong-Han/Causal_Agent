@@ -1,0 +1,11 @@
+Graph Nodes:
+Transplant Surgery;Occupational Therapy;Blood Lipid Profile;Thrombocytopenia;Knee Surgery;Macular Degeneration
+
+Graph Edges:
+1. Blood Lipid Profile --> Transplant Surgery
+2. Macular Degeneration --> Transplant Surgery
+3. Blood Lipid Profile --> Occupational Therapy
+4. Macular Degeneration --> Occupational Therapy
+5. Blood Lipid Profile --> Thrombocytopenia
+6. Macular Degeneration --> Thrombocytopenia
+7. Knee Surgery --- Macular Degeneration

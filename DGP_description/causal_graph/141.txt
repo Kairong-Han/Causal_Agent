@@ -1,0 +1,7 @@
+Graph Nodes:
+Gastroenterology;Neurosurgical Procedures;Laboratory Medicine;Gentamicin
+
+Graph Edges:
+1. Gastroenterology --> Gentamicin
+2. Neurosurgical Procedures --- Laboratory Medicine
+3. Neurosurgical Procedures --> Gentamicin

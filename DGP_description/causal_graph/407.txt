@@ -1,0 +1,6 @@
+Graph Nodes:
+Varicella;Myopia;Endoscopy
+
+Graph Edges:
+1. Varicella --> Myopia
+2. Endoscopy --> Myopia

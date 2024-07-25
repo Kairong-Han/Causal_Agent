@@ -1,0 +1,6 @@
+Graph Nodes:
+Hemophilia;Glaucoma;Dietetics
+
+Graph Edges:
+1. Hemophilia --> Dietetics
+2. Glaucoma --> Dietetics

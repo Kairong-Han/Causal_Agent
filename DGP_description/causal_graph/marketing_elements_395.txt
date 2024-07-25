@@ -1,0 +1,7 @@
+Graph Nodes:
+Trade Shows;Social Listening;Webinars;Downselling;Loyalty Programs
+
+Graph Edges:
+1. Webinars --> Social Listening
+2. Loyalty Programs --> Social Listening
+3. Downselling --- Loyalty Programs

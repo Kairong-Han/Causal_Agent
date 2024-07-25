@@ -1,0 +1,9 @@
+Graph Nodes:
+Healthcare Management;Thrombocytopenia;Pneumonitis;Urinalysis;Creatinine;Peripheral Artery Disease;Inflammatory Bowel Disease;Gastroesophageal Reflux Disease;Joint Replacement
+
+Graph Edges:
+1. Thrombocytopenia --> Healthcare Management
+2. Inflammatory Bowel Disease --> Healthcare Management
+3. Thrombocytopenia --- Urinalysis
+4. Pneumonitis --- Joint Replacement
+5. Creatinine --- Inflammatory Bowel Disease

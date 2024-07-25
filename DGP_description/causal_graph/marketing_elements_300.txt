@@ -1,0 +1,11 @@
+Graph Nodes:
+Product Bundling;User Experience;Segmentation Strategy;Employer Branding;Social Responsibility;Advertising Campaign
+
+Graph Edges:
+1. Product Bundling --- User Experience
+2. Product Bundling --> Segmentation Strategy
+3. User Experience --> Segmentation Strategy
+4. Employer Branding --> Segmentation Strategy
+5. Advertising Campaign --> Segmentation Strategy
+6. Employer Branding --> Social Responsibility
+7. Advertising Campaign --> Social Responsibility

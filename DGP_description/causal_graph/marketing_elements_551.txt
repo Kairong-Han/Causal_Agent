@@ -1,0 +1,17 @@
+Graph Nodes:
+Market Share;Pipeline Management;Cost Per Click;Packaging Design;Omnichannel Marketing;Marketing Mix;Impression Share;Positioning Statement;Podcasts
+
+Graph Edges:
+1. Pipeline Management --> Market Share
+2. Cost Per Click --> Market Share
+3. Podcasts --> Market Share
+4. Cost Per Click --> Pipeline Management
+5. Packaging Design --> Pipeline Management
+6. Impression Share --> Pipeline Management
+7. Omnichannel Marketing --> Cost Per Click
+8. Marketing Mix --> Cost Per Click
+9. Impression Share --> Cost Per Click
+10. Positioning Statement --> Cost Per Click
+11. Marketing Mix --> Omnichannel Marketing
+12. Impression Share --> Omnichannel Marketing
+13. Podcasts --> Omnichannel Marketing

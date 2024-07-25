@@ -1,0 +1,13 @@
+Graph Nodes:
+Sales Performance;Customer Feedback;Guerrilla Marketing;Place Strategy;Data Analytics;Omnichannel Marketing;Return on Ad Spend
+
+Graph Edges:
+1. Customer Feedback --> Sales Performance
+2. Guerrilla Marketing --> Sales Performance
+3. Data Analytics --> Sales Performance
+4. Return on Ad Spend --> Sales Performance
+5. Customer Feedback --> Omnichannel Marketing
+6. Place Strategy --> Guerrilla Marketing
+7. Return on Ad Spend --> Guerrilla Marketing
+8. Place Strategy --> Omnichannel Marketing
+9. Omnichannel Marketing --> Data Analytics

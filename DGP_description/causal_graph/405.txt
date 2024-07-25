@@ -1,0 +1,7 @@
+Graph Nodes:
+Spinal Cord Injury;Pulmonary Embolism;Codeine;Blood Lipid Profile
+
+Graph Edges:
+1. Spinal Cord Injury --- Blood Lipid Profile
+2. Codeine --> Pulmonary Embolism
+3. Blood Lipid Profile --> Pulmonary Embolism

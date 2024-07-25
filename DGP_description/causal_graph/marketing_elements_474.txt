@@ -1,0 +1,14 @@
+Graph Nodes:
+Surveys;Brand Guidelines;Psychographic Targeting;User Experience;Marketing Mix;Customer Satisfaction Score;Cost Per Click;Place Strategy
+
+Graph Edges:
+1. Surveys --> Psychographic Targeting
+2. Surveys --> User Experience
+3. Brand Guidelines --> Marketing Mix
+4. Brand Guidelines --> Customer Satisfaction Score
+5. User Experience --> Psychographic Targeting
+6. Cost Per Click --> Psychographic Targeting
+7. Customer Satisfaction Score --> User Experience
+8. Marketing Mix --- Customer Satisfaction Score
+9. Place Strategy --> Marketing Mix
+10. Place Strategy --> Customer Satisfaction Score

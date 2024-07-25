@@ -1,0 +1,9 @@
+Graph Nodes:
+X1;X2;X3;X4
+
+Graph Edges:
+1. X2 o-> X1
+2. X3 o-> X1
+3. X1 o-o X4
+4. X2 o-> X4
+5. X3 o-> X4

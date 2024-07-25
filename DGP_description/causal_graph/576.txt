@@ -1,0 +1,9 @@
+Graph Nodes:
+MRI Scan;Nephrology;Cardiomyopathy;Dyslipidemia;Macular Degeneration;Insulin
+
+Graph Edges:
+1. MRI Scan --> Cardiomyopathy
+2. Nephrology --- Macular Degeneration
+3. Macular Degeneration --> Cardiomyopathy
+4. Insulin --> Cardiomyopathy
+5. Macular Degeneration --- Insulin

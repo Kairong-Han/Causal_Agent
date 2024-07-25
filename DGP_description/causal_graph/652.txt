@@ -1,0 +1,5 @@
+Graph Nodes:
+Medical Imaging;Bronchitis;Nephrology;Penicillin;Cholera;CT Scan;Chronic Obstructive Pulmonary Disease;Hyperopia;White Blood Cell Count;Valvular Heart Disease
+
+Graph Edges:
+1. Bronchitis --- Cholera

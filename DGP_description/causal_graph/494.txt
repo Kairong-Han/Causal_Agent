@@ -1,0 +1,13 @@
+Graph Nodes:
+Surgical Procedures;Hydrocodone;Sarcoma;Diabetes Mellitus;Hematology;Dermatology
+
+Graph Edges:
+1. Sarcoma --> Surgical Procedures
+2. Diabetes Mellitus --> Surgical Procedures
+3. Surgical Procedures --> Dermatology
+4. Hydrocodone --> Hematology
+5. Hydrocodone --> Dermatology
+6. Sarcoma --> Dermatology
+7. Diabetes Mellitus --> Hematology
+8. Diabetes Mellitus --> Dermatology
+9. Hematology --> Dermatology

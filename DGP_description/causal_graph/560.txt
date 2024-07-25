@@ -1,0 +1,17 @@
+Graph Nodes:
+Tuberculosis;Blood Urea Nitrogen;Medical Imaging;Pneumonitis;Cardiology;Dermatology;Antipyrine;Carcinoma;Malaria
+
+Graph Edges:
+1. Blood Urea Nitrogen --> Medical Imaging
+2. Cardiology --> Blood Urea Nitrogen
+3. Carcinoma --> Blood Urea Nitrogen
+4. Malaria --> Blood Urea Nitrogen
+5. Medical Imaging --> Pneumonitis
+6. Cardiology --> Medical Imaging
+7. Medical Imaging --> Antipyrine
+8. Antipyrine --> Pneumonitis
+9. Carcinoma --> Pneumonitis
+10. Cardiology --- Carcinoma
+11. Cardiology --- Malaria
+12. Antipyrine --> Dermatology
+13. Malaria --> Dermatology

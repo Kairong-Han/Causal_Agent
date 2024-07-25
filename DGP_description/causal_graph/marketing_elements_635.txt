@@ -1,0 +1,18 @@
+Graph Nodes:
+Customer Journey Mapping;Impression Share;Retargeting;Sponsorship Marketing;Green Marketing;Social Listening;User Experience;Webinars;Ambush Marketing;Trade Dress
+
+Graph Edges:
+1. Impression Share --> Customer Journey Mapping
+2. Retargeting --> Customer Journey Mapping
+3. Ambush Marketing --> Customer Journey Mapping
+4. Impression Share --> Retargeting
+5. Social Listening --> Impression Share
+6. User Experience --> Impression Share
+7. Social Listening --> Retargeting
+8. User Experience --> Retargeting
+9. Trade Dress --> Retargeting
+10. Sponsorship Marketing --- Green Marketing
+11. Social Listening --- Trade Dress
+12. Webinars --> User Experience
+13. Ambush Marketing --> User Experience
+14. Webinars --- Trade Dress

@@ -1,0 +1,10 @@
+Graph Nodes:
+Sustainability Marketing;Brand Storytelling;Sales Performance;Affiliate Marketing
+
+Graph Edges:
+1. Sustainability Marketing --- Brand Storytelling
+2. Sustainability Marketing --- Sales Performance
+3. Sustainability Marketing --- Affiliate Marketing
+4. Brand Storytelling --- Sales Performance
+5. Brand Storytelling --- Affiliate Marketing
+6. Sales Performance --- Affiliate Marketing

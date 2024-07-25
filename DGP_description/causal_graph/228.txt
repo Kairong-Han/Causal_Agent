@@ -1,0 +1,8 @@
+Graph Nodes:
+Thrombocytopenia;Urologic Surgery;Creatinine;Hearing Loss;Penicillin
+
+Graph Edges:
+1. Thrombocytopenia --- Penicillin
+2. Creatinine --> Urologic Surgery
+3. Penicillin --> Urologic Surgery
+4. Creatinine --- Hearing Loss

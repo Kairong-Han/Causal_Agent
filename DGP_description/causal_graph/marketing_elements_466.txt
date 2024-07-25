@@ -1,0 +1,9 @@
+Graph Nodes:
+Net Promoter Score;Place Strategy;Creative Strategy;CRM Integration;Brand Loyalty;Trade Shows;Employee Advocacy;Ambush Marketing
+
+Graph Edges:
+1. Net Promoter Score --- CRM Integration
+2. Net Promoter Score --> Employee Advocacy
+3. Place Strategy --- Creative Strategy
+4. Brand Loyalty --- Ambush Marketing
+5. Ambush Marketing --> Employee Advocacy

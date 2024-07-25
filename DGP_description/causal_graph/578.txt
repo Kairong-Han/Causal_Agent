@@ -1,0 +1,13 @@
+Graph Nodes:
+Urinary Tract Infection;Heart Rate;Occupational Therapy;Pneumonitis;Pediatrics;Emphysema;Kidney Function Tests
+
+Graph Edges:
+1. Heart Rate --> Occupational Therapy
+2. Heart Rate --- Kidney Function Tests
+3. Pneumonitis --> Occupational Therapy
+4. Pediatrics --> Occupational Therapy
+5. Kidney Function Tests --> Occupational Therapy
+6. Pneumonitis --> Pediatrics
+7. Pneumonitis --> Emphysema
+8. Kidney Function Tests --> Pediatrics
+9. Kidney Function Tests --> Emphysema

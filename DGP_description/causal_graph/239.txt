@@ -1,0 +1,6 @@
+Graph Nodes:
+Endoscopy;Knee Surgery;Epidemiology
+
+Graph Edges:
+1. Endoscopy --> Knee Surgery
+2. Epidemiology --> Knee Surgery

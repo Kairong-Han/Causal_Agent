@@ -1,0 +1,6 @@
+Graph Nodes:
+Laser Surgery;Rheumatoid Arthritis;Parkinson's Disease;Health Informatics;Hearing Loss;Lymphoma;EEG
+
+Graph Edges:
+1. Laser Surgery --- Parkinson's Disease
+2. Laser Surgery --- EEG

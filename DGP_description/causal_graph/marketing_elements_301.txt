@@ -1,0 +1,8 @@
+Graph Nodes:
+Email Marketing;Product Bundling;Search Engine Rankings;Social Media Marketing;Cross-Selling;Employer Branding
+
+Graph Edges:
+1. Email Marketing --> Product Bundling
+2. Search Engine Rankings --> Product Bundling
+3. Search Engine Rankings --> Cross-Selling
+4. Employer Branding --> Cross-Selling

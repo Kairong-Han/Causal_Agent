@@ -1,0 +1,5 @@
+Graph Nodes:
+Ibuprofen;Platelet Count;Neurology;Nephrology
+
+Graph Edges:
+1. Ibuprofen --- Neurology

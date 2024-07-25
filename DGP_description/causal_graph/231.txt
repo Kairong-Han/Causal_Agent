@@ -1,0 +1,5 @@
+Graph Nodes:
+Allergy;Cardiovascular Surgery;Varicella;Peripheral Artery Disease;Creatinine
+
+Graph Edges:
+1. Varicella --- Creatinine

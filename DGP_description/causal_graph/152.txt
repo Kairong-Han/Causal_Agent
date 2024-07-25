@@ -1,0 +1,5 @@
+Graph Nodes:
+Obesity;Speech Therapy;Emergency Medicine
+
+Graph Edges:
+1. Speech Therapy --- Emergency Medicine

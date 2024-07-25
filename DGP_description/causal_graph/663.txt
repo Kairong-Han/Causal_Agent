@@ -1,0 +1,13 @@
+Graph Nodes:
+Allergy;Bronchitis;Irritable Bowel Syndrome;Emphysema;Hemophilia;ECG;Cancer;Penicillin;Gallstones
+
+Graph Edges:
+1. Irritable Bowel Syndrome --> Allergy
+2. Cancer --> Allergy
+3. Gallstones --> Allergy
+4. Irritable Bowel Syndrome --> Bronchitis
+5. Emphysema --> Bronchitis
+6. ECG --> Bronchitis
+7. Emphysema --> Irritable Bowel Syndrome
+8. Hemophilia --> Irritable Bowel Syndrome
+9. ECG --- Gallstones

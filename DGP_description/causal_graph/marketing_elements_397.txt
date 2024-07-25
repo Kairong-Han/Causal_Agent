@@ -1,0 +1,7 @@
+Graph Nodes:
+Impression Share;Net Promoter Score;Search Engine Rankings
+
+Graph Edges:
+1. Impression Share --- Net Promoter Score
+2. Impression Share --- Search Engine Rankings
+3. Net Promoter Score --- Search Engine Rankings

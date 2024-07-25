@@ -1,0 +1,7 @@
+Graph Nodes:
+Intensive Care Unit;Gynecology;Hemophilia
+
+Graph Edges:
+1. Intensive Care Unit --- Gynecology
+2. Intensive Care Unit --- Hemophilia
+3. Gynecology --- Hemophilia

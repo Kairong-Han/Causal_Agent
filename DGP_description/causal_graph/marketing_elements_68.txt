@@ -1,0 +1,6 @@
+Graph Nodes:
+Sales Collateral;Retargeting;Upselling
+
+Graph Edges:
+1. Retargeting --> Sales Collateral
+2. Upselling --> Sales Collateral

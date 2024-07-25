@@ -1,0 +1,7 @@
+Graph Nodes:
+CT Scan;Ophthalmic Surgery;Speech Therapy;General Surgery
+
+Graph Edges:
+1. Ophthalmic Surgery --> CT Scan
+2. General Surgery --> CT Scan
+3. Speech Therapy --- General Surgery

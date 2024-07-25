@@ -1,0 +1,16 @@
+Graph Nodes:
+Buyer Personas;Product Positioning;Engagement Rate;Impression Share;Net Promoter Score;Click-Through Rate;Content Views;Marketing Mix
+
+Graph Edges:
+1. Engagement Rate --> Buyer Personas
+2. Marketing Mix --> Buyer Personas
+3. Product Positioning --> Engagement Rate
+4. Product Positioning --> Impression Share
+5. Impression Share --> Engagement Rate
+6. Net Promoter Score --> Engagement Rate
+7. Click-Through Rate --> Impression Share
+8. Impression Share --> Marketing Mix
+9. Net Promoter Score --> Click-Through Rate
+10. Net Promoter Score --> Marketing Mix
+11. Content Views --> Click-Through Rate
+12. Marketing Mix --> Click-Through Rate

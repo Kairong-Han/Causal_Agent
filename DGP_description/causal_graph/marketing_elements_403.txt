@@ -1,0 +1,6 @@
+Graph Nodes:
+Cost Per Click;Case Studies;Market Research
+
+Graph Edges:
+1. Case Studies --> Cost Per Click
+2. Market Research --> Cost Per Click

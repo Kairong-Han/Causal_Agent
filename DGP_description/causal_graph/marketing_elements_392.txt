@@ -1,0 +1,6 @@
+Graph Nodes:
+Blog Posts;Search Engine Marketing;Omnichannel Marketing;Mobile Marketing;Sales Performance;Place Strategy;Podcasts
+
+Graph Edges:
+1. Omnichannel Marketing --> Podcasts
+2. Sales Performance --> Podcasts

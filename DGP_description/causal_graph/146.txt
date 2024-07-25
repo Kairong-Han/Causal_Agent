@@ -1,0 +1,8 @@
+Graph Nodes:
+Endoscopy;Heart Rate;Blood Glucose;Anemia
+
+Graph Edges:
+1. Endoscopy --- Blood Glucose
+2. Endoscopy --> Anemia
+3. Heart Rate --> Anemia
+4. Blood Glucose --> Anemia

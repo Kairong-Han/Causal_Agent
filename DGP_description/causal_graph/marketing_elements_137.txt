@@ -1,0 +1,9 @@
+Graph Nodes:
+Packaging Design;Target Market Selection;Positioning Statement;Video Production
+
+Graph Edges:
+1. Packaging Design --> Positioning Statement
+2. Packaging Design --> Video Production
+3. Target Market Selection --> Positioning Statement
+4. Target Market Selection --> Video Production
+5. Positioning Statement --- Video Production

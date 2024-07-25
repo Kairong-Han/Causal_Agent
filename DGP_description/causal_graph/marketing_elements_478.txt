@@ -1,0 +1,5 @@
+Graph Nodes:
+Visual Design;Customer Journey Mapping;Whitepapers
+
+Graph Edges:
+1. Visual Design --- Whitepapers

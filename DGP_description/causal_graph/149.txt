@@ -1,0 +1,7 @@
+Graph Nodes:
+Thrombocytopenia;Irritable Bowel Syndrome;Diabetes Mellitus;Red Blood Cell Count
+
+Graph Edges:
+1. Thrombocytopenia --> Diabetes Mellitus
+2. Irritable Bowel Syndrome --- Red Blood Cell Count
+3. Red Blood Cell Count --> Diabetes Mellitus

@@ -1,0 +1,15 @@
+Graph Nodes:
+Healthcare Management;Pneumonia;Hearing Loss;Blood Lipid Profile;Dental Surgery;Glaucoma;Melanoma;Parkinson's Disease;Varicella;Platelet Count
+
+Graph Edges:
+1. Dental Surgery --> Healthcare Management
+2. Melanoma --> Healthcare Management
+3. Parkinson's Disease --> Healthcare Management
+4. Glaucoma --> Pneumonia
+5. Melanoma --> Pneumonia
+6. Hearing Loss --> Blood Lipid Profile
+7. Hearing Loss --> Dental Surgery
+8. Parkinson's Disease --> Blood Lipid Profile
+9. Glaucoma --> Dental Surgery
+10. Parkinson's Disease --> Dental Surgery
+11. Glaucoma --- Varicella

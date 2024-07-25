@@ -1,0 +1,12 @@
+Graph Nodes:
+Pediatrics;Gynecologic Surgery;Aortic Aneurysm;Cancer;MRI Scan;Macular Degeneration
+
+Graph Edges:
+1. Pediatrics --> Gynecologic Surgery
+2. Pediatrics --> Aortic Aneurysm
+3. Gynecologic Surgery --> Aortic Aneurysm
+4. Cancer --> Gynecologic Surgery
+5. MRI Scan --> Gynecologic Surgery
+6. Cancer --> Aortic Aneurysm
+7. Macular Degeneration --> Aortic Aneurysm
+8. MRI Scan --- Macular Degeneration

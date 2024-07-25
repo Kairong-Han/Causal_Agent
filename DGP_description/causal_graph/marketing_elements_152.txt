@@ -1,0 +1,7 @@
+Graph Nodes:
+Sales Performance;E-commerce Conversion;Public Relations
+
+Graph Edges:
+1. Sales Performance --- E-commerce Conversion
+2. Sales Performance --- Public Relations
+3. E-commerce Conversion --- Public Relations

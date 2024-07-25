@@ -1,0 +1,6 @@
+Graph Nodes:
+Marketing Automation;Trade Dress;Interactive Media
+
+Graph Edges:
+1. Marketing Automation --- Trade Dress
+2. Marketing Automation --- Interactive Media

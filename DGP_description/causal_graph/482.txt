@@ -1,0 +1,7 @@
+Graph Nodes:
+Cancer;Pancreatitis;Healthcare Management;Thrombocytopenia;Alzheimer's Disease;Obstetrics;Gastroesophageal Reflux Disease;Encephalitis
+
+Graph Edges:
+1. Pancreatitis --> Gastroesophageal Reflux Disease
+2. Healthcare Management --> Gastroesophageal Reflux Disease
+3. Obstetrics --- Encephalitis

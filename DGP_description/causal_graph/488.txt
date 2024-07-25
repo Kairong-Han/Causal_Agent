@@ -1,0 +1,5 @@
+Graph Nodes:
+Coagulation Disorders;Ophthalmic Surgery;Psychiatry;Oncology Surgery
+
+Graph Edges:
+1. Coagulation Disorders --- Psychiatry

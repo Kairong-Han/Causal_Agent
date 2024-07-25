@@ -1,0 +1,10 @@
+Graph Nodes:
+Anemia;Allergy;Radiology;Rheumatoid Arthritis;Hydrocodone;Alzheimer's Disease;Deep Vein Thrombosis
+
+Graph Edges:
+1. Allergy --> Anemia
+2. Rheumatoid Arthritis --> Anemia
+3. Rheumatoid Arthritis --> Radiology
+4. Alzheimer's Disease --> Radiology
+5. Hydrocodone --> Alzheimer's Disease
+6. Deep Vein Thrombosis --> Alzheimer's Disease

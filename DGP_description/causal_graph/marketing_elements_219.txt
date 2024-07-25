@@ -1,0 +1,7 @@
+Graph Nodes:
+Podcasts;Freemium Models;Brand Loyalty;Omnichannel Marketing;Brand Personality
+
+Graph Edges:
+1. Podcasts --- Brand Loyalty
+2. Freemium Models --> Brand Personality
+3. Brand Loyalty --> Brand Personality

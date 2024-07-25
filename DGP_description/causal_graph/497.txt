@@ -1,0 +1,13 @@
+Graph Nodes:
+Epidemiology;Insulin;Neurology;Hip Fracture Repair;Pediatric Surgery;Hematology
+
+Graph Edges:
+1. Epidemiology --> Insulin
+2. Neurology --> Epidemiology
+3. Hip Fracture Repair --> Epidemiology
+4. Pediatric Surgery --> Epidemiology
+5. Hematology --> Epidemiology
+6. Neurology --> Insulin
+7. Pediatric Surgery --> Insulin
+8. Neurology --- Hematology
+9. Hip Fracture Repair --- Pediatric Surgery

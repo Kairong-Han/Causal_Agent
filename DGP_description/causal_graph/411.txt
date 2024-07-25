@@ -1,0 +1,6 @@
+Graph Nodes:
+Aspirin;Osteoarthritis;Thrombocytopenia
+
+Graph Edges:
+1. Aspirin --> Osteoarthritis
+2. Thrombocytopenia --> Osteoarthritis

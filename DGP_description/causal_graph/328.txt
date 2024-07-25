@@ -1,0 +1,7 @@
+Graph Nodes:
+Penicillin;Blood Glucose;MRI Scan;Hyperopia
+
+Graph Edges:
+1. Penicillin --> Hyperopia
+2. Hyperopia --> Blood Glucose
+3. MRI Scan --> Hyperopia

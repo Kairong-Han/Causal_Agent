@@ -1,0 +1,9 @@
+Graph Nodes:
+Liver Function Tests;Spinal Cord Injury;Peptic Ulcer Disease;Vertigo;Knee Surgery;Chronic Obstructive Pulmonary Disease
+
+Graph Edges:
+1. Liver Function Tests --> Peptic Ulcer Disease
+2. Liver Function Tests --> Chronic Obstructive Pulmonary Disease
+3. Spinal Cord Injury --> Peptic Ulcer Disease
+4. Peptic Ulcer Disease --> Chronic Obstructive Pulmonary Disease
+5. Vertigo --- Knee Surgery

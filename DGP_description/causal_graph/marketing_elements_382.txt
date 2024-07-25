@@ -1,0 +1,15 @@
+Graph Nodes:
+Brand Voice;Focus Groups;Interactive Media;Freemium Models;Referral Programs;Buyer Personas;Customer Lifetime Value
+
+Graph Edges:
+1. Focus Groups --> Brand Voice
+2. Interactive Media --> Brand Voice
+3. Referral Programs --> Brand Voice
+4. Buyer Personas --> Brand Voice
+5. Focus Groups --> Freemium Models
+6. Focus Groups --- Buyer Personas
+7. Freemium Models --> Interactive Media
+8. Customer Lifetime Value --> Interactive Media
+9. Referral Programs --> Freemium Models
+10. Buyer Personas --> Freemium Models
+11. Referral Programs --- Customer Lifetime Value

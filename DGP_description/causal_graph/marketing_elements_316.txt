@@ -1,0 +1,6 @@
+Graph Nodes:
+Creative Strategy;Positioning Statement;Return on Ad Spend;Video Views
+
+Graph Edges:
+1. Positioning Statement --> Return on Ad Spend
+2. Video Views --> Return on Ad Spend

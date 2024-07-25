@@ -1,0 +1,11 @@
+Graph Nodes:
+Speech Therapy;Kidney Function Tests;Ibuprofen;Robotic Surgery;Blood Urea Nitrogen;Pediatrics
+
+Graph Edges:
+1. Speech Therapy --- Blood Urea Nitrogen
+2. Ibuprofen --> Kidney Function Tests
+3. Robotic Surgery --> Kidney Function Tests
+4. Blood Urea Nitrogen --> Ibuprofen
+5. Pediatrics --> Ibuprofen
+6. Blood Urea Nitrogen --> Robotic Surgery
+7. Pediatrics --> Robotic Surgery

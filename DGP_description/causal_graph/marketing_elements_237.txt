@@ -1,0 +1,8 @@
+Graph Nodes:
+User Experience;Marketing Automation;Public Relations;Loyalty Programs
+
+Graph Edges:
+1. Marketing Automation --> User Experience
+2. Public Relations --> User Experience
+3. Marketing Automation --> Public Relations
+4. Loyalty Programs --> Public Relations

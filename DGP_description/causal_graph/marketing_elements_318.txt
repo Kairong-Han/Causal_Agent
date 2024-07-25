@@ -1,0 +1,7 @@
+Graph Nodes:
+Ambush Marketing;Logo Design;Lead Generation;Social Responsibility;Surveys
+
+Graph Edges:
+1. Logo Design --- Surveys
+2. Lead Generation --- Surveys
+3. Social Responsibility --- Surveys

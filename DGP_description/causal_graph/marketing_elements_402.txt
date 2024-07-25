@@ -1,0 +1,7 @@
+Graph Nodes:
+Community Building;Return on Ad Spend;Corporate Identity
+
+Graph Edges:
+1. Community Building --- Return on Ad Spend
+2. Community Building --- Corporate Identity
+3. Return on Ad Spend --- Corporate Identity

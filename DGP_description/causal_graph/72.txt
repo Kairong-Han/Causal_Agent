@@ -1,0 +1,4 @@
+Graph Nodes:
+CT Scan;Gynecology;Hip Fracture Repair
+
+Graph Edges:

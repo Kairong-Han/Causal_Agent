@@ -1,0 +1,6 @@
+Graph Nodes:
+Customer Relationship Management;Freemium Models;Green Marketing
+
+Graph Edges:
+1. Customer Relationship Management --- Freemium Models
+2. Customer Relationship Management --- Green Marketing

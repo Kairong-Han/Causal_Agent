@@ -1,0 +1,7 @@
+Graph Nodes:
+Lead Generation;Native Advertising;Brand Ambassadors;Cost Per Click;Promotion Strategy;Return on Ad Spend
+
+Graph Edges:
+1. Native Advertising --- Promotion Strategy
+2. Promotion Strategy --> Brand Ambassadors
+3. Return on Ad Spend --> Brand Ambassadors

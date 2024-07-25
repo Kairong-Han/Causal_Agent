@@ -1,0 +1,12 @@
+Graph Nodes:
+Emergency Medicine;Kidney Stones;Pediatrics;Osteoporosis;Morphine;HIV/AIDS
+
+Graph Edges:
+1. Pediatrics --> Emergency Medicine
+2. Osteoporosis --> Emergency Medicine
+3. HIV/AIDS --> Emergency Medicine
+4. Pediatrics --> Kidney Stones
+5. Osteoporosis --> Kidney Stones
+6. HIV/AIDS --> Kidney Stones
+7. Pediatrics --- HIV/AIDS
+8. Osteoporosis --- Morphine

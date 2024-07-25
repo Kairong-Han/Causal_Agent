@@ -1,0 +1,7 @@
+Graph Nodes:
+Cost Per Click;Customer Retention Rate;Social Media Engagement;Lead Nurturing
+
+Graph Edges:
+1. Cost Per Click --- Lead Nurturing
+2. Social Media Engagement --> Customer Retention Rate
+3. Lead Nurturing --> Customer Retention Rate

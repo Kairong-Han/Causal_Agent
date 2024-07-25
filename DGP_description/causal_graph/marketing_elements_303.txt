@@ -1,0 +1,9 @@
+Graph Nodes:
+Content Strategy;Native Advertising;Webinars;Website Traffic;Press Releases;Whitepapers
+
+Graph Edges:
+1. Content Strategy --- Press Releases
+2. Website Traffic --> Native Advertising
+3. Website Traffic --> Webinars
+4. Press Releases --> Website Traffic
+5. Whitepapers --> Website Traffic

@@ -1,0 +1,10 @@
+Graph Nodes:
+Leukemia;Measles;ECG;Pediatrics;ENT Surgery
+
+Graph Edges:
+1. Leukemia --> Measles
+2. ECG --> Measles
+3. ENT Surgery --> Measles
+4. ECG --- Pediatrics
+5. ECG --- ENT Surgery
+6. Pediatrics --- ENT Surgery

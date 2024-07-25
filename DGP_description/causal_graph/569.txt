@@ -1,0 +1,14 @@
+Graph Nodes:
+Cardiology;Neurosurgical Procedures;Pneumonia;CT Scan;Insulin;Pulmonology;Blood Glucose;Ophthalmic Surgery;Peptic Ulcer Disease
+
+Graph Edges:
+1. Cardiology --- Pneumonia
+2. Cardiology --> Pulmonology
+3. Cardiology --> Blood Glucose
+4. Pneumonia --> Neurosurgical Procedures
+5. CT Scan --> Neurosurgical Procedures
+6. Insulin --> Neurosurgical Procedures
+7. Pneumonia --- Insulin
+8. Pneumonia --> Pulmonology
+9. Insulin --> Pulmonology
+10. Insulin --> Blood Glucose

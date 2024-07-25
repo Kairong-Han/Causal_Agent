@@ -1,0 +1,5 @@
+Graph Nodes:
+Corporate Reputation;Social Media Marketing;Psychographic Targeting
+
+Graph Edges:
+1. Corporate Reputation --- Social Media Marketing

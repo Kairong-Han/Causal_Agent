@@ -1,0 +1,16 @@
+Graph Nodes:
+Joint Replacement;Health Informatics;Antipyrine;Gallstones;Allergy;Oncology Surgery;Cardiology;Malaria
+
+Graph Edges:
+1. Joint Replacement --> Health Informatics
+2. Joint Replacement --> Gallstones
+3. Joint Replacement --> Oncology Surgery
+4. Oncology Surgery --> Health Informatics
+5. Cardiology --> Health Informatics
+6. Oncology Surgery --> Antipyrine
+7. Cardiology --> Antipyrine
+8. Allergy --> Gallstones
+9. Oncology Surgery --> Gallstones
+10. Cardiology --> Allergy
+11. Malaria --> Allergy
+12. Malaria --> Oncology Surgery

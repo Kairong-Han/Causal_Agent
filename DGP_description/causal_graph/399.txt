@@ -1,0 +1,13 @@
+Graph Nodes:
+Alzheimer's Disease;Glaucoma;Hemophilia;Joint Replacement;Encephalitis;Orthopedic Surgery;Creatinine
+
+Graph Edges:
+1. Glaucoma --> Alzheimer's Disease
+2. Hemophilia --> Alzheimer's Disease
+3. Encephalitis --> Alzheimer's Disease
+4. Creatinine --> Alzheimer's Disease
+5. Glaucoma --> Orthopedic Surgery
+6. Joint Replacement --> Hemophilia
+7. Creatinine --> Hemophilia
+8. Joint Replacement --> Orthopedic Surgery
+9. Orthopedic Surgery --> Encephalitis

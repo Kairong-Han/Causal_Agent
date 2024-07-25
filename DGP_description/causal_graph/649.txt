@@ -1,0 +1,17 @@
+Graph Nodes:
+Platelet Count;Urinalysis;Healthcare Management;Otorhinolaryngology;Hydrocodone;Cardiovascular Disease;Alzheimer's Disease;Hepatitis B;Diabetic Retinopathy;Hematology
+
+Graph Edges:
+1. Urinalysis --> Platelet Count
+2. Healthcare Management --> Platelet Count
+3. Alzheimer's Disease --> Platelet Count
+4. Urinalysis --> Otorhinolaryngology
+5. Urinalysis --- Diabetic Retinopathy
+6. Healthcare Management --> Otorhinolaryngology
+7. Hepatitis B --> Otorhinolaryngology
+8. Diabetic Retinopathy --> Otorhinolaryngology
+9. Alzheimer's Disease --> Hydrocodone
+10. Hepatitis B --> Hydrocodone
+11. Alzheimer's Disease --> Cardiovascular Disease
+12. Hepatitis B --> Cardiovascular Disease
+13. Diabetic Retinopathy --> Cardiovascular Disease

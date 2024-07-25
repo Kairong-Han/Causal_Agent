@@ -1,0 +1,8 @@
+Graph Nodes:
+Arrhythmia;Spinal Cord Injury;Arthritis;Intensive Care Unit
+
+Graph Edges:
+1. Arrhythmia --> Spinal Cord Injury
+2. Spinal Cord Injury --> Arthritis
+3. Intensive Care Unit --> Spinal Cord Injury
+4. Intensive Care Unit --> Arthritis

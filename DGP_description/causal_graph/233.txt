@@ -1,0 +1,8 @@
+Graph Nodes:
+Myopia;Sarcoma;Hematology;Liver Function Tests;Blood Pressure
+
+Graph Edges:
+1. Myopia --- Blood Pressure
+2. Hematology --> Sarcoma
+3. Blood Pressure --> Sarcoma
+4. Hematology --- Liver Function Tests

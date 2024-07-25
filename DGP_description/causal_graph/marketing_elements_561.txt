@@ -1,0 +1,8 @@
+Graph Nodes:
+Product Development;Focus Groups;Interactive Media;Ethical Marketing;Loyalty Programs
+
+Graph Edges:
+1. Product Development --- Loyalty Programs
+2. Focus Groups --> Interactive Media
+3. Ethical Marketing --> Interactive Media
+4. Loyalty Programs --> Interactive Media

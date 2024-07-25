@@ -1,0 +1,7 @@
+Graph Nodes:
+Arthritis;Ultrasound;Benign Tumors;Intensive Care Unit
+
+Graph Edges:
+1. Arthritis --- Ultrasound
+2. Arthritis --- Intensive Care Unit
+3. Ultrasound --- Intensive Care Unit

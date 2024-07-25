@@ -1,0 +1,14 @@
+Graph Nodes:
+Customer Feedback;Upselling;Blog Posts;Search Engine Marketing;Loyalty Programs;Social Listening;Affiliate Marketing
+
+Graph Edges:
+1. Upselling --> Customer Feedback
+2. Customer Feedback --> Blog Posts
+3. Search Engine Marketing --> Customer Feedback
+4. Loyalty Programs --> Customer Feedback
+5. Social Listening --> Customer Feedback
+6. Blog Posts --> Upselling
+7. Social Listening --> Upselling
+8. Search Engine Marketing --> Blog Posts
+9. Affiliate Marketing --> Blog Posts
+10. Search Engine Marketing --- Affiliate Marketing

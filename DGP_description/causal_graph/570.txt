@@ -1,0 +1,6 @@
+Graph Nodes:
+Dietetics;Arthritis;Bronchitis;Coagulation Disorders
+
+Graph Edges:
+1. Dietetics --- Coagulation Disorders
+2. Bronchitis --- Coagulation Disorders

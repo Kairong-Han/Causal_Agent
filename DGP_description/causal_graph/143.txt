@@ -1,0 +1,6 @@
+Graph Nodes:
+Cirrhosis;Ophthalmology;Kidney Function Tests;Hepatitis B
+
+Graph Edges:
+1. Cirrhosis --- Hepatitis B
+2. Ophthalmology --- Kidney Function Tests

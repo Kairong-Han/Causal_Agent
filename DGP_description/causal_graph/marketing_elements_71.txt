@@ -1,0 +1,6 @@
+Graph Nodes:
+Engagement Rate;Product Development;Reputation Management
+
+Graph Edges:
+1. Engagement Rate --> Reputation Management
+2. Product Development --> Reputation Management

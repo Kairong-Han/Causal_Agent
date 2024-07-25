@@ -1,0 +1,6 @@
+Graph Nodes:
+Social Responsibility;Infographics;Lead Nurturing;Buyer Personas
+
+Graph Edges:
+1. Social Responsibility --- Buyer Personas
+2. Infographics --- Lead Nurturing

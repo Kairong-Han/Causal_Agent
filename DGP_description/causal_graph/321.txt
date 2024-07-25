@@ -1,0 +1,11 @@
+Graph Nodes:
+Endoscopy;General Surgery;Knee Surgery;Chronic Obstructive Pulmonary Disease;Gynecology
+
+Graph Edges:
+1. Endoscopy --> General Surgery
+2. Chronic Obstructive Pulmonary Disease --> Endoscopy
+3. Gynecology --> Endoscopy
+4. Knee Surgery --> General Surgery
+5. Chronic Obstructive Pulmonary Disease --> General Surgery
+6. Chronic Obstructive Pulmonary Disease --> Knee Surgery
+7. Gynecology --> Knee Surgery

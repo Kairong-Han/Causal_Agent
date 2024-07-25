@@ -1,0 +1,6 @@
+Graph Nodes:
+Anemia;Hepatitis B;Speech Therapy
+
+Graph Edges:
+1. Anemia --> Hepatitis B
+2. Speech Therapy --> Hepatitis B

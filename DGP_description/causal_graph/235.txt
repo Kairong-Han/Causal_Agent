@@ -1,0 +1,6 @@
+Graph Nodes:
+Peptic Ulcer Disease;Erythromycin;Creatinine;Hydrocodone;Pathology
+
+Graph Edges:
+1. Peptic Ulcer Disease --- Erythromycin
+2. Hydrocodone --- Pathology

@@ -1,0 +1,15 @@
+Graph Nodes:
+Knee Surgery;Bronchitis;Physiotherapy;Joint Replacement;Pneumonia;Dental Surgery;Laparoscopic Surgery
+
+Graph Edges:
+1. Bronchitis --> Knee Surgery
+2. Physiotherapy --> Knee Surgery
+3. Pneumonia --> Knee Surgery
+4. Dental Surgery --> Knee Surgery
+5. Bronchitis --> Joint Replacement
+6. Bronchitis --- Dental Surgery
+7. Joint Replacement --> Physiotherapy
+8. Laparoscopic Surgery --> Physiotherapy
+9. Pneumonia --> Joint Replacement
+10. Dental Surgery --> Joint Replacement
+11. Pneumonia --- Laparoscopic Surgery

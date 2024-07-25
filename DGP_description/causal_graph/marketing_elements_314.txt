@@ -1,0 +1,4 @@
+Graph Nodes:
+Advertising Campaign;Crisis Management;Employee Advocacy
+
+Graph Edges:

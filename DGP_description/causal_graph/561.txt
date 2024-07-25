@@ -1,0 +1,13 @@
+Graph Nodes:
+Cancer;Tinnitus;Urology;Cardiovascular Disease;Myopia;Kidney Function Tests;Medical Imaging;Creatinine;Transplant Surgery
+
+Graph Edges:
+1. Cancer --- Urology
+2. Cancer --> Myopia
+3. Cancer --- Transplant Surgery
+4. Urology --> Tinnitus
+5. Cardiovascular Disease --> Tinnitus
+6. Medical Imaging --> Tinnitus
+7. Urology --- Transplant Surgery
+8. Kidney Function Tests --> Myopia
+9. Medical Imaging --> Myopia

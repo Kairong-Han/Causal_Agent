@@ -1,0 +1,8 @@
+Graph Nodes:
+Interactive Media;Lead Nurturing;Consumer Behavior Analysis;Retargeting;Webinars;Brand Voice;Target Market Selection;Public Relations;Video Views
+
+Graph Edges:
+1. Interactive Media --> Lead Nurturing
+2. Brand Voice --> Lead Nurturing
+3. Webinars --> Retargeting
+4. Brand Voice --> Retargeting

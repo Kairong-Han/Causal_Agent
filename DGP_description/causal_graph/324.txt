@@ -1,0 +1,11 @@
+Graph Nodes:
+Colonoscopy;Hydrocodone;Ultrasound;Melanoma;Cardiac Catheterization
+
+Graph Edges:
+1. Colonoscopy --> Hydrocodone
+2. Colonoscopy --> Ultrasound
+3. Melanoma --> Hydrocodone
+4. Hydrocodone --> Cardiac Catheterization
+5. Melanoma --> Ultrasound
+6. Cardiac Catheterization --> Ultrasound
+7. Melanoma --> Cardiac Catheterization

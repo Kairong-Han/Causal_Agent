@@ -1,0 +1,9 @@
+Graph Nodes:
+Aspirin;Dental Surgery;Psychiatry;Liver Function Tests
+
+Graph Edges:
+1. Aspirin --> Dental Surgery
+2. Aspirin --> Psychiatry
+3. Dental Surgery --- Psychiatry
+4. Liver Function Tests --> Dental Surgery
+5. Liver Function Tests --> Psychiatry

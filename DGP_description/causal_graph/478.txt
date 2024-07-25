@@ -1,0 +1,15 @@
+Graph Nodes:
+Cardiomyopathy;Pancreatitis;Ibuprofen;Spinal Cord Injury;Hepatology;Plastic Surgery;Epidemiology;Surgical Procedures
+
+Graph Edges:
+1. Pancreatitis --> Cardiomyopathy
+2. Plastic Surgery --> Cardiomyopathy
+3. Surgical Procedures --> Cardiomyopathy
+4. Pancreatitis --> Ibuprofen
+5. Pancreatitis --> Hepatology
+6. Spinal Cord Injury --> Ibuprofen
+7. Hepatology --> Ibuprofen
+8. Plastic Surgery --> Ibuprofen
+9. Surgical Procedures --> Ibuprofen
+10. Spinal Cord Injury --> Hepatology
+11. Spinal Cord Injury --- Plastic Surgery

@@ -1,0 +1,12 @@
+Graph Nodes:
+Buyer Personas;Community Building;Social Media Reach;Customer Journey Mapping;Corporate Communications;Return on Ad Spend;Freemium Models
+
+Graph Edges:
+1. Buyer Personas --- Community Building
+2. Buyer Personas --> Social Media Reach
+3. Customer Journey Mapping --> Buyer Personas
+4. Corporate Communications --> Buyer Personas
+5. Community Building --> Social Media Reach
+6. Customer Journey Mapping --> Community Building
+7. Corporate Communications --> Community Building
+8. Customer Journey Mapping --> Social Media Reach

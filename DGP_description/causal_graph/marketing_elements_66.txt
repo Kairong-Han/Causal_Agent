@@ -1,0 +1,6 @@
+Graph Nodes:
+Corporate Identity;Community Building;Video Production
+
+Graph Edges:
+1. Corporate Identity --- Community Building
+2. Corporate Identity --- Video Production

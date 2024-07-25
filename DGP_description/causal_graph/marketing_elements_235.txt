@@ -1,0 +1,5 @@
+Graph Nodes:
+Affiliate Marketing;Press Releases;Personalization;Lead Nurturing
+
+Graph Edges:
+1. Personalization --- Lead Nurturing

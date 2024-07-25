@@ -1,0 +1,18 @@
+Graph Nodes:
+Red Blood Cell Count;Aortic Aneurysm;Neurology;EEG;Parkinson's Disease;Public Health;Anemia;Urology;HIV/AIDS;Hematology
+
+Graph Edges:
+1. Aortic Aneurysm --> Red Blood Cell Count
+2. Neurology --> Red Blood Cell Count
+3. Red Blood Cell Count --> Urology
+4. Neurology --> Aortic Aneurysm
+5. Parkinson's Disease --> Aortic Aneurysm
+6. Anemia --> Aortic Aneurysm
+7. HIV/AIDS --> Aortic Aneurysm
+8. Neurology --> Urology
+9. EEG --> Anemia
+10. Public Health --- Hematology
+11. HIV/AIDS --> Anemia
+12. Hematology --> Anemia
+13. HIV/AIDS --> Urology
+14. Hematology --> Urology

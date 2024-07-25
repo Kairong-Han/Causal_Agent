@@ -1,0 +1,7 @@
+Graph Nodes:
+Acetaminophen;MRI Scan;Obstetrics;Pulmonary Embolism
+
+Graph Edges:
+1. Acetaminophen --- Pulmonary Embolism
+2. MRI Scan --- Obstetrics
+3. Obstetrics --- Pulmonary Embolism

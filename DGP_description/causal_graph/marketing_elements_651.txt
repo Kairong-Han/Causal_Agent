@@ -1,0 +1,6 @@
+Graph Nodes:
+Ethical Marketing;Cost Per Click;Creative Strategy;Social Media Reach;User Experience
+
+Graph Edges:
+1. Creative Strategy --> Ethical Marketing
+2. User Experience --> Ethical Marketing

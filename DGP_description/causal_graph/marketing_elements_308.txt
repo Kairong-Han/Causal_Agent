@@ -1,0 +1,8 @@
+Graph Nodes:
+Buyer Personas;Employee Engagement;Customer Retention Rate;Customer Relationship Management;Market Share;Customer Reviews
+
+Graph Edges:
+1. Customer Retention Rate --> Buyer Personas
+2. Customer Relationship Management --> Buyer Personas
+3. Market Share --> Buyer Personas
+4. Market Share --- Customer Reviews

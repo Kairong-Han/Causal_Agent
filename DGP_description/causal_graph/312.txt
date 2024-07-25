@@ -1,0 +1,10 @@
+Graph Nodes:
+Cholera;Endocarditis;Cataract;Neurosurgery;Cephalosporins;Blood Urea Nitrogen
+
+Graph Edges:
+1. Cholera --> Cataract
+2. Cholera --> Neurosurgery
+3. Endocarditis --- Blood Urea Nitrogen
+4. Neurosurgery --> Cataract
+5. Blood Urea Nitrogen --> Cataract
+6. Cephalosporins --> Neurosurgery

@@ -1,0 +1,12 @@
+Graph Nodes:
+Whitepapers;Psychographic Targeting;Product Positioning;Brand Storytelling;Freemium Models;Native Advertising;Customer Journey Mapping;Customer Reviews
+
+Graph Edges:
+1. Psychographic Targeting --> Whitepapers
+2. Customer Journey Mapping --> Whitepapers
+3. Freemium Models --> Psychographic Targeting
+4. Native Advertising --> Psychographic Targeting
+5. Product Positioning --> Native Advertising
+6. Brand Storytelling --> Native Advertising
+7. Freemium Models --- Customer Journey Mapping
+8. Customer Reviews --> Native Advertising

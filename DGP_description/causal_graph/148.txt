@@ -1,0 +1,7 @@
+Graph Nodes:
+Astigmatism;Family Medicine;Nutrition;Menigitis
+
+Graph Edges:
+1. Astigmatism --> Nutrition
+2. Family Medicine --- Menigitis
+3. Menigitis --> Nutrition

@@ -1,0 +1,6 @@
+Graph Nodes:
+Social Responsibility;Sponsorship Marketing;Customer Journey Mapping;Social Media Marketing;Cart Abandonment;Corporate Identity;Internal Marketing;Trade Shows;Influencer Partnerships
+
+Graph Edges:
+1. Sponsorship Marketing --- Internal Marketing
+2. Social Media Marketing --- Cart Abandonment

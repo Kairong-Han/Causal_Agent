@@ -1,0 +1,5 @@
+Graph Nodes:
+Net Promoter Score;Video Views;Sales Performance
+
+Graph Edges:
+1. Net Promoter Score --- Sales Performance

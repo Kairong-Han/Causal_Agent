@@ -1,0 +1,8 @@
+Graph Nodes:
+Aortic Aneurysm;Ibuprofen;Dental Surgery;Hemophilia;Obesity;Trauma Surgery;Oncology Surgery;Occupational Therapy
+
+Graph Edges:
+1. Aortic Aneurysm --- Obesity
+2. Dental Surgery --> Trauma Surgery
+3. Obesity --- Oncology Surgery
+4. Occupational Therapy --> Trauma Surgery

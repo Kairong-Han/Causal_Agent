@@ -1,0 +1,11 @@
+Graph Nodes:
+Endocrinology;Cholera;Creatinine;Bronchitis;Intensive Care Unit
+
+Graph Edges:
+1. Cholera --> Endocrinology
+2. Creatinine --> Endocrinology
+3. Bronchitis --> Endocrinology
+4. Cholera --- Creatinine
+5. Cholera --> Intensive Care Unit
+6. Creatinine --> Intensive Care Unit
+7. Bronchitis --> Intensive Care Unit

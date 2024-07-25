@@ -1,0 +1,6 @@
+Graph Nodes:
+Encephalitis;Allergy;Pathology
+
+Graph Edges:
+1. Encephalitis --> Pathology
+2. Allergy --> Pathology

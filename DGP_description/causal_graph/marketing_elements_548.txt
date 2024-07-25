@@ -1,0 +1,15 @@
+Graph Nodes:
+Social Media Marketing;Cost Per Acquisition;Website Traffic;Audio Production;Testimonials;Behavioral Targeting;Internal Marketing;Search Engine Marketing;Engagement Rate
+
+Graph Edges:
+1. Cost Per Acquisition --> Social Media Marketing
+2. Behavioral Targeting --> Social Media Marketing
+3. Audio Production --> Website Traffic
+4. Behavioral Targeting --> Website Traffic
+5. Internal Marketing --> Website Traffic
+6. Engagement Rate --> Website Traffic
+7. Audio Production --> Search Engine Marketing
+8. Testimonials --> Internal Marketing
+9. Behavioral Targeting --> Internal Marketing
+10. Search Engine Marketing --> Internal Marketing
+11. Engagement Rate --> Search Engine Marketing

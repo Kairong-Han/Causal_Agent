@@ -1,0 +1,11 @@
+Graph Nodes:
+Ibuprofen;Measles;Obesity;Family Medicine;Pyelonephritis;Epidemiology;Dermatology;Pulmonology;Hepatitis
+
+Graph Edges:
+1. Family Medicine --> Ibuprofen
+2. Pulmonology --> Ibuprofen
+3. Measles --> Family Medicine
+4. Dermatology --> Family Medicine
+5. Pulmonology --> Epidemiology
+6. Hepatitis --> Epidemiology
+7. Dermatology --- Hepatitis

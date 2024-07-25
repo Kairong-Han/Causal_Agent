@@ -1,0 +1,9 @@
+Graph Nodes:
+Website Traffic;Pipeline Management;Sales Training;Content Distribution;Sustainability Marketing
+
+Graph Edges:
+1. Website Traffic --- Sustainability Marketing
+2. Sales Training --> Pipeline Management
+3. Pipeline Management --> Content Distribution
+4. Sustainability Marketing --> Pipeline Management
+5. Sales Training --> Content Distribution

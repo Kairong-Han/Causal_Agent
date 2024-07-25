@@ -1,0 +1,5 @@
+Graph Nodes:
+Endocrinology;Valvular Heart Disease;Gentamicin;Congestive Heart Failure
+
+Graph Edges:
+1. Valvular Heart Disease --- Gentamicin

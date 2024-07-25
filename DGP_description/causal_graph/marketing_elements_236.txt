@@ -1,0 +1,6 @@
+Graph Nodes:
+Downselling;Referral Programs;Segmentation Strategy;Website Traffic
+
+Graph Edges:
+1. Referral Programs --> Segmentation Strategy
+2. Website Traffic --> Segmentation Strategy

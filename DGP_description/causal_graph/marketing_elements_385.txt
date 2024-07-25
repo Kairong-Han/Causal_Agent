@@ -1,0 +1,6 @@
+Graph Nodes:
+Brand Storytelling;Social Listening;Green Marketing;Social Media Reach;Content Views;Lead Generation;CRM Integration
+
+Graph Edges:
+1. Brand Storytelling --- Green Marketing
+2. Brand Storytelling --- CRM Integration

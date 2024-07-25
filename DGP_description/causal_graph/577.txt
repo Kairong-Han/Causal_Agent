@@ -1,0 +1,10 @@
+Graph Nodes:
+Cephalosporins;Osteoarthritis;Knee Surgery;Public Health;Surgical Procedures;Acetaminophen
+
+Graph Edges:
+1. Knee Surgery --> Cephalosporins
+2. Surgical Procedures --> Cephalosporins
+3. Acetaminophen --> Cephalosporins
+4. Osteoarthritis --> Knee Surgery
+5. Public Health --> Knee Surgery
+6. Surgical Procedures --- Acetaminophen

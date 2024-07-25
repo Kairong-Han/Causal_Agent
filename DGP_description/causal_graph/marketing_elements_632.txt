@@ -1,0 +1,6 @@
+Graph Nodes:
+Eco-Friendly Practices;Corporate Communications;Brand Awareness;Native Advertising;Omnichannel Marketing;Brand Loyalty;Buyer Personas;Marketing Mix;Social Media Marketing;Product Bundling
+
+Graph Edges:
+1. Corporate Communications --- Buyer Personas
+2. Native Advertising --- Social Media Marketing

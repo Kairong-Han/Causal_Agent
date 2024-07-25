@@ -1,0 +1,7 @@
+Graph Nodes:
+Copywriting;Focus Groups;Native Advertising
+
+Graph Edges:
+1. Copywriting --- Focus Groups
+2. Copywriting --- Native Advertising
+3. Focus Groups --- Native Advertising

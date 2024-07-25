@@ -1,0 +1,10 @@
+Graph Nodes:
+Demographic Targeting;Trade Shows;Content Marketing;Community Building;Corporate Social Initiatives;Packaging Design
+
+Graph Edges:
+1. Community Building --> Demographic Targeting
+2. Packaging Design --> Demographic Targeting
+3. Community Building --> Trade Shows
+4. Packaging Design --> Trade Shows
+5. Community Building --> Corporate Social Initiatives
+6. Packaging Design --> Corporate Social Initiatives

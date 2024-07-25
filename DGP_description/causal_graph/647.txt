@@ -1,0 +1,14 @@
+Graph Nodes:
+Allergy;Emphysema;Urinary Tract Infection;CT Scan;Occupational Therapy;Astigmatism;Stroke;Cardiac Catheterization;Pediatrics;Laparoscopic Surgery
+
+Graph Edges:
+1. Allergy --> Cardiac Catheterization
+2. Emphysema --> Urinary Tract Infection
+3. Emphysema --- CT Scan
+4. Emphysema --> Astigmatism
+5. Stroke --> Urinary Tract Infection
+6. Cardiac Catheterization --> Urinary Tract Infection
+7. Pediatrics --> Astigmatism
+8. Stroke --> Laparoscopic Surgery
+9. Pediatrics --> Cardiac Catheterization
+10. Pediatrics --> Laparoscopic Surgery

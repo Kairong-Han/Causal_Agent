@@ -1,0 +1,17 @@
+Graph Nodes:
+Social Media Marketing;Search Engine Rankings;Surveys;Brand Ambassadors;Virtual Events;Focus Groups;SEO Optimization;Employer Branding
+
+Graph Edges:
+1. Brand Ambassadors --> Social Media Marketing
+2. Virtual Events --> Social Media Marketing
+3. Focus Groups --> Social Media Marketing
+4. Brand Ambassadors --> Search Engine Rankings
+5. Virtual Events --> Search Engine Rankings
+6. SEO Optimization --> Search Engine Rankings
+7. Employer Branding --> Search Engine Rankings
+8. Brand Ambassadors --> Surveys
+9. Employer Branding --> Surveys
+10. Brand Ambassadors --- Focus Groups
+11. Brand Ambassadors --> SEO Optimization
+12. Virtual Events --> SEO Optimization
+13. Focus Groups --> SEO Optimization

@@ -1,0 +1,6 @@
+Graph Nodes:
+Ambush Marketing;User Experience;Social Media Engagement;Product Bundling;Search Engine Rankings;Video Production;Content Syndication;Ethical Marketing;Positioning Statement
+
+Graph Edges:
+1. Ambush Marketing --- Product Bundling
+2. Video Production --- Positioning Statement

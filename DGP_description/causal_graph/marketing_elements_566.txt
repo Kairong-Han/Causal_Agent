@@ -1,0 +1,6 @@
+Graph Nodes:
+Geotargeting;Cross-Selling;Customer Acquisition Cost
+
+Graph Edges:
+1. Cross-Selling --> Geotargeting
+2. Customer Acquisition Cost --> Geotargeting

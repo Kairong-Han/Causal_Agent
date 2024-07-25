@@ -1,0 +1,15 @@
+Graph Nodes:
+Value Proposition;Data Analytics;Consumer Insights;Employee Advocacy;Press Releases;Sustainability Marketing;Market Share;Content Views;Public Relations
+
+Graph Edges:
+1. Value Proposition --> Employee Advocacy
+2. Sustainability Marketing --> Data Analytics
+3. Content Views --> Data Analytics
+4. Employee Advocacy --> Consumer Insights
+5. Press Releases --> Consumer Insights
+6. Market Share --> Consumer Insights
+7. Public Relations --> Consumer Insights
+8. Press Releases --> Employee Advocacy
+9. Sustainability Marketing --> Employee Advocacy
+10. Press Releases --- Sustainability Marketing
+11. Press Releases --- Public Relations

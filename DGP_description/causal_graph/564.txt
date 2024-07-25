@@ -1,0 +1,15 @@
+Graph Nodes:
+ENT Surgery;Intensive Care Unit;Robotic Surgery;Menigitis;Pneumonia;Cirrhosis;Cardiovascular Surgery;Kidney Stones;Transplant Surgery
+
+Graph Edges:
+1. Intensive Care Unit --> ENT Surgery
+2. Cirrhosis --> ENT Surgery
+3. Menigitis --> Robotic Surgery
+4. Cirrhosis --> Robotic Surgery
+5. Cardiovascular Surgery --> Robotic Surgery
+6. Transplant Surgery --> Robotic Surgery
+7. Menigitis --> Kidney Stones
+8. Pneumonia --> Cardiovascular Surgery
+9. Cirrhosis --> Cardiovascular Surgery
+10. Kidney Stones --> Cardiovascular Surgery
+11. Transplant Surgery --> Kidney Stones

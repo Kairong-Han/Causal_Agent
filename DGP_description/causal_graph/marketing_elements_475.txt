@@ -1,0 +1,14 @@
+Graph Nodes:
+SEO Optimization;Ambush Marketing;Video Production;Sales Forecasting;Employer Branding;Demographic Targeting;Corporate Communications;E-commerce Conversion
+
+Graph Edges:
+1. Ambush Marketing --- Video Production
+2. Ambush Marketing --- Sales Forecasting
+3. Ambush Marketing --- Employer Branding
+4. Ambush Marketing --- E-commerce Conversion
+5. Video Production --- Sales Forecasting
+6. Video Production --- Employer Branding
+7. Video Production --- Corporate Communications
+8. Sales Forecasting --- Employer Branding
+9. Employer Branding --- Demographic Targeting
+10. Demographic Targeting --- Corporate Communications

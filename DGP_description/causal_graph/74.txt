@@ -1,0 +1,6 @@
+Graph Nodes:
+Rheumatoid Arthritis;Pulmonology;ECG
+
+Graph Edges:
+1. Rheumatoid Arthritis --- Pulmonology
+2. Pulmonology --- ECG

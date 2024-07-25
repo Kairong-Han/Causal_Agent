@@ -1,0 +1,6 @@
+Graph Nodes:
+Anemia;Orthopedic Surgery;Cardiovascular Disease
+
+Graph Edges:
+1. Anemia --> Cardiovascular Disease
+2. Orthopedic Surgery --> Cardiovascular Disease

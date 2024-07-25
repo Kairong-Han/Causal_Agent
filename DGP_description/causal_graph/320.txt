@@ -1,0 +1,12 @@
+Graph Nodes:
+Dental Surgery;Anemia;Hip Fracture Repair;Orthopedic Surgery;Parkinson's Disease;X-ray
+
+Graph Edges:
+1. Dental Surgery --> Anemia
+2. Dental Surgery --> Hip Fracture Repair
+3. Anemia --> Hip Fracture Repair
+4. Orthopedic Surgery --> Anemia
+5. Parkinson's Disease --> Anemia
+6. Orthopedic Surgery --> Hip Fracture Repair
+7. X-ray --> Hip Fracture Repair
+8. Parkinson's Disease --- X-ray

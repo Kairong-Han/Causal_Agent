@@ -1,0 +1,8 @@
+Graph Nodes:
+Ethical Marketing;Brand Storytelling;Social Media Marketing;Market Research
+
+Graph Edges:
+1. Brand Storytelling --> Ethical Marketing
+2. Social Media Marketing --> Ethical Marketing
+3. Brand Storytelling --> Social Media Marketing
+4. Market Research --> Social Media Marketing

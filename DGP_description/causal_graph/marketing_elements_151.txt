@@ -1,0 +1,5 @@
+Graph Nodes:
+Brand Storytelling;E-books;Packaging Design
+
+Graph Edges:
+1. E-books --- Packaging Design

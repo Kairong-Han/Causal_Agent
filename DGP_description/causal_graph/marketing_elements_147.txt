@@ -1,0 +1,6 @@
+Graph Nodes:
+Surveys;Consumer Behavior Analysis;Brand Ambassadors
+
+Graph Edges:
+1. Consumer Behavior Analysis --> Surveys
+2. Brand Ambassadors --> Surveys

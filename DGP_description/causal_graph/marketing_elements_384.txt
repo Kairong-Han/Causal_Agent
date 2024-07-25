@@ -1,0 +1,8 @@
+Graph Nodes:
+Social Listening;Corporate Social Initiatives;Webinars;Testimonials;Social Media Reach;Content Marketing;Consumer Behavior Analysis
+
+Graph Edges:
+1. Testimonials --> Corporate Social Initiatives
+2. Social Media Reach --> Corporate Social Initiatives
+3. Content Marketing --> Corporate Social Initiatives
+4. Webinars --- Content Marketing

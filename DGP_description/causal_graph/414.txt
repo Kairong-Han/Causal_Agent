@@ -1,0 +1,4 @@
+Graph Nodes:
+Blood Pressure;Laparoscopic Surgery;Cardiology;Coagulation Disorders;Traumatic Brain Injury
+
+Graph Edges:

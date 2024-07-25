@@ -1,0 +1,18 @@
+Graph Nodes:
+Metastasis;Red Blood Cell Count;Cardiovascular Surgery;General Surgery;Gallstones;Cancer;Gastroesophageal Reflux Disease;Pediatric Surgery;Health Informatics;Anemia
+
+Graph Edges:
+1. Red Blood Cell Count --> Metastasis
+2. Metastasis --> Cardiovascular Surgery
+3. General Surgery --> Metastasis
+4. Cancer --> Metastasis
+5. Anemia --> Metastasis
+6. Red Blood Cell Count --> Gallstones
+7. General Surgery --> Cardiovascular Surgery
+8. Cancer --> Cardiovascular Surgery
+9. Anemia --> Cardiovascular Surgery
+10. General Surgery --> Gastroesophageal Reflux Disease
+11. Anemia --> Gallstones
+12. Gastroesophageal Reflux Disease --> Cancer
+13. Pediatric Surgery --> Cancer
+14. Health Informatics --> Gastroesophageal Reflux Disease

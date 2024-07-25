@@ -1,0 +1,12 @@
+Graph Nodes:
+Neurosurgical Procedures;Obesity;Dermatology;Morphine;Urology;Septicemia;Ultrasound
+
+Graph Edges:
+1. Neurosurgical Procedures --- Obesity
+2. Neurosurgical Procedures --> Dermatology
+3. Morphine --> Neurosurgical Procedures
+4. Urology --> Neurosurgical Procedures
+5. Obesity --> Dermatology
+6. Morphine --> Obesity
+7. Urology --> Obesity
+8. Morphine --> Dermatology

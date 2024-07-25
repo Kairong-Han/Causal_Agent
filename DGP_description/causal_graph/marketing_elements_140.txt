@@ -1,0 +1,7 @@
+Graph Nodes:
+Sales Performance;Content Syndication;Value Proposition;Content Views
+
+Graph Edges:
+1. Value Proposition --> Sales Performance
+2. Content Views --> Sales Performance
+3. Content Syndication --- Value Proposition

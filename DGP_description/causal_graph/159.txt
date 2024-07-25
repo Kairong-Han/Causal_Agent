@@ -1,0 +1,6 @@
+Graph Nodes:
+Traumatic Brain Injury;Laparoscopic Surgery;Pediatric Surgery
+
+Graph Edges:
+1. Traumatic Brain Injury --> Laparoscopic Surgery
+2. Pediatric Surgery --> Laparoscopic Surgery

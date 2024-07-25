@@ -1,0 +1,5 @@
+Graph Nodes:
+Urologic Surgery;Amoxicillin;Cardiovascular Disease
+
+Graph Edges:
+1. Amoxicillin --- Cardiovascular Disease

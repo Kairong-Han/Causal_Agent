@@ -1,0 +1,6 @@
+Graph Nodes:
+Emergency Medicine;Colonoscopy;Blood Glucose;Allergy;Pulmonology
+
+Graph Edges:
+1. Emergency Medicine --- Blood Glucose
+2. Colonoscopy --- Pulmonology

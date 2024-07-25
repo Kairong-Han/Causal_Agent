@@ -1,0 +1,8 @@
+Graph Nodes:
+Erythromycin;Trauma Surgery;Congestive Heart Failure;Pulmonology
+
+Graph Edges:
+1. Trauma Surgery --> Erythromycin
+2. Congestive Heart Failure --> Erythromycin
+3. Pulmonology --> Erythromycin
+4. Congestive Heart Failure --- Pulmonology

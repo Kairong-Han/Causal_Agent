@@ -1,0 +1,6 @@
+Graph Nodes:
+Urologic Surgery;Codeine;Laparoscopic Surgery
+
+Graph Edges:
+1. Urologic Surgery --- Codeine
+2. Urologic Surgery --- Laparoscopic Surgery

@@ -1,0 +1,10 @@
+Graph Nodes:
+Social Responsibility;Webinars;Sales Enablement;Influencer Partnerships;Case Studies;Product Development
+
+Graph Edges:
+1. Webinars --> Social Responsibility
+2. Case Studies --> Social Responsibility
+3. Social Responsibility --> Product Development
+4. Webinars --> Influencer Partnerships
+5. Product Development --> Influencer Partnerships
+6. Case Studies --> Product Development

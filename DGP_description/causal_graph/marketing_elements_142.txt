@@ -1,0 +1,7 @@
+Graph Nodes:
+Buyer Personas;Whitepapers;Positioning Statement;Focus Groups
+
+Graph Edges:
+1. Positioning Statement --> Buyer Personas
+2. Focus Groups --> Buyer Personas
+3. Whitepapers --- Positioning Statement

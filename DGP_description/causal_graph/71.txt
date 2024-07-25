@@ -1,0 +1,5 @@
+Graph Nodes:
+Creatinine;Otorhinolaryngology;Red Blood Cell Count
+
+Graph Edges:
+1. Otorhinolaryngology --- Red Blood Cell Count

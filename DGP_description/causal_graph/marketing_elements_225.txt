@@ -1,0 +1,6 @@
+Graph Nodes:
+Reputation Management;Psychographic Targeting;Social Responsibility;SEO Optimization;Customer Retention Rate
+
+Graph Edges:
+1. Social Responsibility --> Psychographic Targeting
+2. SEO Optimization --> Psychographic Targeting

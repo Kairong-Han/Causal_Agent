@@ -1,0 +1,12 @@
+Graph Nodes:
+Malaria;Surgical Procedures;Valvular Heart Disease;Laser Surgery;Vertigo;Alzheimer's Disease
+
+Graph Edges:
+1. Valvular Heart Disease --> Malaria
+2. Laser Surgery --> Malaria
+3. Alzheimer's Disease --> Malaria
+4. Valvular Heart Disease --> Surgical Procedures
+5. Laser Surgery --> Surgical Procedures
+6. Alzheimer's Disease --> Surgical Procedures
+7. Valvular Heart Disease --- Alzheimer's Disease
+8. Laser Surgery --- Vertigo

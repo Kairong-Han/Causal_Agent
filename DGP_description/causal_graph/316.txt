@@ -1,0 +1,11 @@
+Graph Nodes:
+Endocarditis;Gallstones;Hyperopia;Malaria;Intensive Care Unit;Amoxicillin
+
+Graph Edges:
+1. Hyperopia --> Endocarditis
+2. Malaria --> Endocarditis
+3. Amoxicillin --> Endocarditis
+4. Gallstones --> Hyperopia
+5. Malaria --> Hyperopia
+6. Intensive Care Unit --> Hyperopia
+7. Intensive Care Unit --- Amoxicillin

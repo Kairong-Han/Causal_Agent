@@ -1,0 +1,11 @@
+Graph Nodes:
+Influencer Partnerships;Lead Generation;Focus Groups;Referral Programs;Email Marketing;Crisis Management
+
+Graph Edges:
+1. Influencer Partnerships --- Lead Generation
+2. Influencer Partnerships --> Focus Groups
+3. Lead Generation --> Focus Groups
+4. Referral Programs --> Focus Groups
+5. Crisis Management --> Focus Groups
+6. Referral Programs --> Email Marketing
+7. Crisis Management --> Email Marketing

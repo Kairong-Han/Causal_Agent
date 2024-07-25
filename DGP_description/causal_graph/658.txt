@@ -1,0 +1,13 @@
+Graph Nodes:
+Aspirin;Peripheral Artery Disease;Blood Lipid Profile;Pediatric Surgery;Otorhinolaryngology;Septicemia;Pulmonology;Hypertension
+
+Graph Edges:
+1. Pediatric Surgery --> Aspirin
+2. Otorhinolaryngology --> Aspirin
+3. Septicemia --> Aspirin
+4. Pulmonology --> Aspirin
+5. Peripheral Artery Disease --- Otorhinolaryngology
+6. Blood Lipid Profile --> Pediatric Surgery
+7. Otorhinolaryngology --> Pediatric Surgery
+8. Septicemia --> Pediatric Surgery
+9. Hypertension --> Pediatric Surgery

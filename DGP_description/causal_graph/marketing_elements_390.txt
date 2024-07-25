@@ -1,0 +1,15 @@
+Graph Nodes:
+Product Bundling;Target Audience;Cross-Selling;Loyalty Programs;Packaging Design;Market Research;Sales Enablement
+
+Graph Edges:
+1. Target Audience --> Product Bundling
+2. Cross-Selling --> Product Bundling
+3. Packaging Design --> Product Bundling
+4. Market Research --> Product Bundling
+5. Target Audience --> Loyalty Programs
+6. Target Audience --- Market Research
+7. Loyalty Programs --> Cross-Selling
+8. Sales Enablement --> Cross-Selling
+9. Packaging Design --> Loyalty Programs
+10. Market Research --> Loyalty Programs
+11. Packaging Design --- Sales Enablement

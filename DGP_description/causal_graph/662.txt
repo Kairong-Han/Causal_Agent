@@ -1,0 +1,5 @@
+Graph Nodes:
+Public Health;Amoxicillin;Vertigo
+
+Graph Edges:
+1. Public Health --- Amoxicillin

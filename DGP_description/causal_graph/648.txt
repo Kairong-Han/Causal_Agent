@@ -1,0 +1,16 @@
+Graph Nodes:
+Platelet Count;Medical Imaging;Cirrhosis;Deep Vein Thrombosis;EEG;Surgical Procedures;Osteoporosis;Asthma;Heart Rate;Ibuprofen
+
+Graph Edges:
+1. Medical Imaging --> Platelet Count
+2. Cirrhosis --> Platelet Count
+3. Surgical Procedures --> Platelet Count
+4. Ibuprofen --> Platelet Count
+5. Cirrhosis --> Medical Imaging
+6. Medical Imaging --> Deep Vein Thrombosis
+7. Surgical Procedures --> Medical Imaging
+8. Surgical Procedures --> Deep Vein Thrombosis
+9. Osteoporosis --> Deep Vein Thrombosis
+10. EEG --- Osteoporosis
+11. Surgical Procedures --- Heart Rate
+12. Osteoporosis --- Asthma

@@ -1,0 +1,14 @@
+Graph Nodes:
+Customer Lifetime Value;Brand Awareness;Target Audience;Podcasts;Eco-Friendly Practices;Internal Marketing;CRM Integration;Brand Loyalty
+
+Graph Edges:
+1. Customer Lifetime Value --- Target Audience
+2. Customer Lifetime Value --- Brand Loyalty
+3. Podcasts --> Brand Awareness
+4. Eco-Friendly Practices --> Brand Awareness
+5. Target Audience --> Podcasts
+6. Target Audience --- Brand Loyalty
+7. Internal Marketing --> Podcasts
+8. CRM Integration --> Podcasts
+9. Internal Marketing --> Eco-Friendly Practices
+10. CRM Integration --> Eco-Friendly Practices

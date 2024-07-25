@@ -1,0 +1,12 @@
+Graph Nodes:
+Thrombocytopenia;Red Blood Cell Count;Allergy;Cholecystitis;Hepatology;Occupational Therapy;Radiology;Dermatology
+
+Graph Edges:
+1. Red Blood Cell Count --> Thrombocytopenia
+2. Radiology --> Thrombocytopenia
+3. Hepatology --> Red Blood Cell Count
+4. Occupational Therapy --> Red Blood Cell Count
+5. Allergy --> Occupational Therapy
+6. Cholecystitis --> Occupational Therapy
+7. Hepatology --- Radiology
+8. Dermatology --> Occupational Therapy

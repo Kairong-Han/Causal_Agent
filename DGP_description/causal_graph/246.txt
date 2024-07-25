@@ -1,0 +1,10 @@
+Graph Nodes:
+Morphine;Gallstones;Neurosurgery;Kidney Function Tests
+
+Graph Edges:
+1. Morphine --- Gallstones
+2. Morphine --- Neurosurgery
+3. Morphine --- Kidney Function Tests
+4. Gallstones --- Neurosurgery
+5. Gallstones --- Kidney Function Tests
+6. Neurosurgery --- Kidney Function Tests

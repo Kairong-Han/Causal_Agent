@@ -1,0 +1,8 @@
+Graph Nodes:
+Arrhythmia;Insulin;Melanoma;Gynecology
+
+Graph Edges:
+1. Arrhythmia --> Insulin
+2. Insulin --> Melanoma
+3. Gynecology --> Insulin
+4. Gynecology --> Melanoma

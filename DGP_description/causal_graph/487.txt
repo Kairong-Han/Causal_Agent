@@ -1,0 +1,14 @@
+Graph Nodes:
+MRI Scan;Measles;Anemia;Blood Urea Nitrogen;Radiology;Cephalosporins;Laboratory Medicine
+
+Graph Edges:
+1. MRI Scan --> Blood Urea Nitrogen
+2. Anemia --> Measles
+3. Radiology --> Measles
+4. Laboratory Medicine --> Measles
+5. Anemia --> Blood Urea Nitrogen
+6. Anemia --- Cephalosporins
+7. Radiology --> Blood Urea Nitrogen
+8. Cephalosporins --> Blood Urea Nitrogen
+9. Laboratory Medicine --> Blood Urea Nitrogen
+10. Radiology --- Cephalosporins

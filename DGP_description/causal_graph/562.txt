@@ -1,0 +1,15 @@
+Graph Nodes:
+Radiology;Rheumatoid Arthritis;Erythromycin;Endocrinology;Ultrasound;Thrombocytopenia;Dietetics;Hearing Loss;Urinalysis
+
+Graph Edges:
+1. Radiology --> Erythromycin
+2. Radiology --> Endocrinology
+3. Radiology --> Thrombocytopenia
+4. Rheumatoid Arthritis --> Erythromycin
+5. Rheumatoid Arthritis --> Endocrinology
+6. Erythromycin --> Endocrinology
+7. Thrombocytopenia --> Erythromycin
+8. Dietetics --> Erythromycin
+9. Urinalysis --> Endocrinology
+10. Ultrasound --> Thrombocytopenia
+11. Hearing Loss --- Urinalysis

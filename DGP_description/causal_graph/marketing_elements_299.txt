@@ -1,0 +1,12 @@
+Graph Nodes:
+Sales Training;Value Proposition;Consumer Behavior Analysis;Creative Strategy;Podcasts;Video Views
+
+Graph Edges:
+1. Sales Training --> Value Proposition
+2. Sales Training --> Creative Strategy
+3. Consumer Behavior Analysis --> Value Proposition
+4. Value Proposition --> Creative Strategy
+5. Consumer Behavior Analysis --> Creative Strategy
+6. Podcasts --> Consumer Behavior Analysis
+7. Video Views --> Consumer Behavior Analysis
+8. Video Views --> Creative Strategy

@@ -1,0 +1,12 @@
+Graph Nodes:
+Cephalosporins;Metastasis;Emergency Medicine;Malaria;Morphine
+
+Graph Edges:
+1. Metastasis --> Cephalosporins
+2. Emergency Medicine --> Cephalosporins
+3. Malaria --> Cephalosporins
+4. Morphine --> Cephalosporins
+5. Metastasis --> Malaria
+6. Metastasis --> Morphine
+7. Emergency Medicine --> Morphine
+8. Morphine --> Malaria

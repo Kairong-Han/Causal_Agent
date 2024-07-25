@@ -1,0 +1,11 @@
+Graph Nodes:
+Pipeline Management;Geotargeting;Value Proposition;Demographic Targeting;Brand Voice;E-books
+
+Graph Edges:
+1. Pipeline Management --> Brand Voice
+2. Demographic Targeting --> Geotargeting
+3. E-books --> Geotargeting
+4. Value Proposition --> Brand Voice
+5. Value Proposition --- E-books
+6. Demographic Targeting --> Brand Voice
+7. E-books --> Brand Voice

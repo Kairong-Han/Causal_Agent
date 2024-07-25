@@ -1,0 +1,6 @@
+Graph Nodes:
+Consumer Insights;Corporate Social Initiatives;Video Production
+
+Graph Edges:
+1. Consumer Insights --> Corporate Social Initiatives
+2. Video Production --> Corporate Social Initiatives

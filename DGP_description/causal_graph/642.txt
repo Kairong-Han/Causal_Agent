@@ -1,0 +1,8 @@
+Graph Nodes:
+Medical Imaging;Dental Surgery;Chronic Obstructive Pulmonary Disease;Bronchitis;Arthritis;Hepatitis C;Blood Glucose;Colonoscopy;Congestive Heart Failure;Immunology
+
+Graph Edges:
+1. Medical Imaging --> Dental Surgery
+2. Colonoscopy --> Dental Surgery
+3. Chronic Obstructive Pulmonary Disease --- Arthritis
+4. Bronchitis --- Hepatitis C

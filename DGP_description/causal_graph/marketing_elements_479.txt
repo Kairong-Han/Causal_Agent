@@ -1,0 +1,8 @@
+Graph Nodes:
+Value Proposition;Trade Shows;Testimonials;Logo Design;Video Views
+
+Graph Edges:
+1. Value Proposition --- Testimonials
+2. Testimonials --> Trade Shows
+3. Logo Design --> Trade Shows
+4. Logo Design --- Video Views

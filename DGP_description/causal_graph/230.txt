@@ -1,0 +1,6 @@
+Graph Nodes:
+Urinalysis;Cephalosporins;Dental Surgery;X-ray;Cardiomyopathy
+
+Graph Edges:
+1. Dental Surgery --> Cephalosporins
+2. X-ray --> Cephalosporins

@@ -1,0 +1,6 @@
+Graph Nodes:
+Brand Voice;Personalization;Consumer Insights
+
+Graph Edges:
+1. Personalization --> Brand Voice
+2. Consumer Insights --> Brand Voice

@@ -1,0 +1,8 @@
+Graph Nodes:
+Pediatric Surgery;Dermatology;X-ray;Liver Function Tests;Gynecologic Surgery;Laboratory Medicine
+
+Graph Edges:
+1. Pediatric Surgery --- Dermatology
+2. Dermatology --- Laboratory Medicine
+3. X-ray --- Liver Function Tests
+4. X-ray --- Gynecologic Surgery

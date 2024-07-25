@@ -1,0 +1,6 @@
+Graph Nodes:
+Ethical Marketing;Product Positioning;E-books;Price Strategy;Crisis Management;Guerrilla Marketing;Cost Per Click;Brand Voice;Internal Marketing;Target Audience
+
+Graph Edges:
+1. E-books --- Crisis Management
+2. Price Strategy --- Brand Voice

@@ -1,0 +1,6 @@
+Graph Nodes:
+Kidney Function Tests;Neurology;Chronic Obstructive Pulmonary Disease;Endocrinology;Healthcare Management;Psychiatry;Blood Lipid Profile;Cardiac Catheterization
+
+Graph Edges:
+1. Neurology --- Psychiatry
+2. Chronic Obstructive Pulmonary Disease --- Healthcare Management

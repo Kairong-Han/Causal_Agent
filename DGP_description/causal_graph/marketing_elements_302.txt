@@ -1,0 +1,5 @@
+Graph Nodes:
+Influencer Partnerships;Corporate Communications;Ethical Marketing;Guerrilla Marketing;Cost Per Click;Referral Programs
+
+Graph Edges:
+1. Influencer Partnerships --- Referral Programs

@@ -1,0 +1,5 @@
+Graph Nodes:
+Virtual Events;Social Responsibility;Social Media Marketing;Consumer Insights;Corporate Reputation;Employee Engagement;Mobile Marketing;Return on Ad Spend;Blog Posts;Target Audience
+
+Graph Edges:
+1. Social Responsibility --- Corporate Reputation

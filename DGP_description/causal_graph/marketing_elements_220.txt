@@ -1,0 +1,12 @@
+Graph Nodes:
+Target Market Selection;Engagement Rate;Brand Ambassadors;Native Advertising;Content Marketing
+
+Graph Edges:
+1. Target Market Selection --> Engagement Rate
+2. Target Market Selection --- Brand Ambassadors
+3. Target Market Selection --> Native Advertising
+4. Native Advertising --> Engagement Rate
+5. Content Marketing --> Engagement Rate
+6. Brand Ambassadors --> Native Advertising
+7. Brand Ambassadors --- Content Marketing
+8. Content Marketing --> Native Advertising

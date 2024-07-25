@@ -1,0 +1,9 @@
+Graph Nodes:
+Case Studies;Psychographic Targeting;Buyer Personas;Logo Design;Audio Production
+
+Graph Edges:
+1. Psychographic Targeting --> Case Studies
+2. Audio Production --> Case Studies
+3. Psychographic Targeting --- Buyer Personas
+4. Psychographic Targeting --- Logo Design
+5. Buyer Personas --- Audio Production

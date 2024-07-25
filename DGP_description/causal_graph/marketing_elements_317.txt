@@ -1,0 +1,6 @@
+Graph Nodes:
+Data Analytics;Customer Relationship Management;Value Proposition;Ambush Marketing
+
+Graph Edges:
+1. Data Analytics --- Value Proposition
+2. Customer Relationship Management --- Ambush Marketing

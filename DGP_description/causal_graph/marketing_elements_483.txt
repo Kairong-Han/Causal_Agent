@@ -1,0 +1,9 @@
+Graph Nodes:
+Sales Training;GMV;Sponsorship Marketing;Buyer Personas;Customer Feedback
+
+Graph Edges:
+1. Sales Training --- Sponsorship Marketing
+2. Sales Training --> Customer Feedback
+3. GMV --> Customer Feedback
+4. Sponsorship Marketing --> Customer Feedback
+5. Buyer Personas --> Customer Feedback

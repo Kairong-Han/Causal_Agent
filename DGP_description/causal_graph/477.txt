@@ -1,0 +1,14 @@
+Graph Nodes:
+Deep Vein Thrombosis;White Blood Cell Count;Dyslipidemia;Epidemiology;Urinalysis;Measles;Plastic Surgery;Coagulation Disorders
+
+Graph Edges:
+1. Urinalysis --> Deep Vein Thrombosis
+2. Measles --> Deep Vein Thrombosis
+3. Urinalysis --> White Blood Cell Count
+4. Measles --> White Blood Cell Count
+5. Plastic Surgery --> White Blood Cell Count
+6. Coagulation Disorders --> White Blood Cell Count
+7. Dyslipidemia --> Epidemiology
+8. Dyslipidemia --> Coagulation Disorders
+9. Plastic Surgery --> Epidemiology
+10. Urinalysis --> Coagulation Disorders

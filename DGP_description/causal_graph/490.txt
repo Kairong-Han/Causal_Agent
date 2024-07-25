@@ -1,0 +1,13 @@
+Graph Nodes:
+Hepatitis B;Red Blood Cell Count;Neurology;Surgical Procedures;Nephrology;Kidney Stones;Osteoporosis
+
+Graph Edges:
+1. Hepatitis B --> Neurology
+2. Surgical Procedures --> Red Blood Cell Count
+3. Nephrology --> Red Blood Cell Count
+4. Osteoporosis --> Red Blood Cell Count
+5. Osteoporosis --> Neurology
+6. Surgical Procedures --> Kidney Stones
+7. Nephrology --> Kidney Stones
+8. Nephrology --> Osteoporosis
+9. Kidney Stones --> Osteoporosis

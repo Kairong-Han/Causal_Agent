@@ -1,0 +1,7 @@
+Graph Nodes:
+Gastroenterology;Hepatitis C;Colonoscopy;Thrombocytopenia
+
+Graph Edges:
+1. Gastroenterology --- Hepatitis C
+2. Hepatitis C --> Thrombocytopenia
+3. Colonoscopy --> Thrombocytopenia

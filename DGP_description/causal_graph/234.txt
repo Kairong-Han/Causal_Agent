@@ -1,0 +1,8 @@
+Graph Nodes:
+Leukemia;Congestive Heart Failure;Insulin;Obstetrics;Transplant Surgery
+
+Graph Edges:
+1. Leukemia --- Transplant Surgery
+2. Insulin --> Congestive Heart Failure
+3. Transplant Surgery --> Congestive Heart Failure
+4. Insulin --- Obstetrics

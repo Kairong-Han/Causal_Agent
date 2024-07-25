@@ -1,0 +1,6 @@
+Graph Nodes:
+Complete Blood Count;Septicemia;Electrolytes
+
+Graph Edges:
+1. Complete Blood Count --- Septicemia
+2. Septicemia --- Electrolytes

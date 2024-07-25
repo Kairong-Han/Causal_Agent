@@ -1,0 +1,8 @@
+Graph Nodes:
+Hematology;Liver Function Tests;Osteoarthritis;HIV/AIDS;Diabetes Mellitus;Pyelonephritis
+
+Graph Edges:
+1. Osteoarthritis --> Hematology
+2. HIV/AIDS --> Hematology
+3. Diabetes Mellitus --> Hematology
+4. Diabetes Mellitus --- Pyelonephritis

@@ -1,0 +1,5 @@
+Graph Nodes:
+Blood Lipid Profile;Allergy;Morphine
+
+Graph Edges:
+1. Blood Lipid Profile --- Allergy

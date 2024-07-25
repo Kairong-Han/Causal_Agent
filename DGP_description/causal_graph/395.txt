@@ -1,0 +1,13 @@
+Graph Nodes:
+Antipyrine;White Blood Cell Count;Dermatology;Otorhinolaryngology;Pediatric Surgery;Health Informatics;Cephalosporins
+
+Graph Edges:
+1. Antipyrine --> White Blood Cell Count
+2. Dermatology --> White Blood Cell Count
+3. Otorhinolaryngology --> Dermatology
+4. Health Informatics --> Dermatology
+5. Cephalosporins --> Dermatology
+6. Otorhinolaryngology --> Pediatric Surgery
+7. Health Informatics --> Pediatric Surgery
+8. Cephalosporins --> Pediatric Surgery
+9. Health Informatics --- Cephalosporins

@@ -1,0 +1,16 @@
+Graph Nodes:
+Epidemiology;Gallstones;Blood Urea Nitrogen;Influenza;Toxicology;Arthritis;Coagulation Disorders;Tinnitus
+
+Graph Edges:
+1. Gallstones --> Epidemiology
+2. Arthritis --> Epidemiology
+3. Coagulation Disorders --> Epidemiology
+4. Tinnitus --> Epidemiology
+5. Influenza --> Gallstones
+6. Arthritis --> Gallstones
+7. Arthritis --> Blood Urea Nitrogen
+8. Coagulation Disorders --> Blood Urea Nitrogen
+9. Tinnitus --> Blood Urea Nitrogen
+10. Toxicology --> Influenza
+11. Coagulation Disorders --> Influenza
+12. Toxicology --- Tinnitus

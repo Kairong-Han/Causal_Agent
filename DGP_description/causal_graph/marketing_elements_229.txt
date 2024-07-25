@@ -1,0 +1,5 @@
+Graph Nodes:
+Price Strategy;GMV;Sales Enablement
+
+Graph Edges:
+1. Price Strategy --- GMV

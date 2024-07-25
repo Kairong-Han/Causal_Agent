@@ -1,0 +1,17 @@
+Graph Nodes:
+Content Strategy;Product Bundling;Cost Per Click;Impression Share;Public Relations;Subscription Models;Trade Shows;Brand Guidelines;Guerrilla Marketing
+
+Graph Edges:
+1. Content Strategy --> Public Relations
+2. Content Strategy --> Trade Shows
+3. Cost Per Click --> Product Bundling
+4. Impression Share --> Product Bundling
+5. Public Relations --> Product Bundling
+6. Subscription Models --> Product Bundling
+7. Impression Share --> Cost Per Click
+8. Subscription Models --> Cost Per Click
+9. Impression Share --> Subscription Models
+10. Brand Guidelines --> Public Relations
+11. Guerrilla Marketing --> Subscription Models
+12. Brand Guidelines --> Trade Shows
+13. Brand Guidelines --- Guerrilla Marketing

@@ -1,0 +1,10 @@
+Graph Nodes:
+Market Research;Webinars;Eco-Friendly Practices;E-books;Sales Performance
+
+Graph Edges:
+1. Market Research --> Webinars
+2. Market Research --> Eco-Friendly Practices
+3. Eco-Friendly Practices --> Webinars
+4. Sales Performance --> Webinars
+5. E-books --> Eco-Friendly Practices
+6. E-books --- Sales Performance

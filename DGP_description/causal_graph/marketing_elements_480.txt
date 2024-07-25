@@ -1,0 +1,6 @@
+Graph Nodes:
+Eco-Friendly Practices;Segmentation Strategy;Brand Awareness
+
+Graph Edges:
+1. Eco-Friendly Practices --> Brand Awareness
+2. Segmentation Strategy --> Brand Awareness

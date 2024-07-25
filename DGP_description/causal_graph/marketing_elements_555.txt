@@ -1,0 +1,13 @@
+Graph Nodes:
+Buyer Personas;Loyalty Programs;Sales Enablement;Video Views;Corporate Social Initiatives;Creative Strategy;Audio Production;Trade Dress;Geotargeting
+
+Graph Edges:
+1. Buyer Personas --- Sales Enablement
+2. Buyer Personas --> Corporate Social Initiatives
+3. Buyer Personas --- Geotargeting
+4. Sales Enablement --> Loyalty Programs
+5. Video Views --> Loyalty Programs
+6. Audio Production --> Loyalty Programs
+7. Sales Enablement --- Geotargeting
+8. Creative Strategy --> Corporate Social Initiatives
+9. Audio Production --> Corporate Social Initiatives

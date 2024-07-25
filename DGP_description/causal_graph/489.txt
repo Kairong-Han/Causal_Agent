@@ -1,0 +1,12 @@
+Graph Nodes:
+Aspirin;Oncology Surgery;Dietetics;Peptic Ulcer Disease;Nephrology;Encephalitis;Dyslipidemia
+
+Graph Edges:
+1. Aspirin --- Oncology Surgery
+2. Aspirin --> Dyslipidemia
+3. Peptic Ulcer Disease --> Dietetics
+4. Nephrology --> Dietetics
+5. Encephalitis --> Dietetics
+6. Peptic Ulcer Disease --> Dyslipidemia
+7. Nephrology --> Dyslipidemia
+8. Encephalitis --> Dyslipidemia

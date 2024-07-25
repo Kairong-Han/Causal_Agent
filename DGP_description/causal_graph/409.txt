@@ -1,0 +1,5 @@
+Graph Nodes:
+Healthcare Management;Cardiomyopathy;Irritable Bowel Syndrome;Nephrology;Astigmatism
+
+Graph Edges:
+1. Healthcare Management --- Cardiomyopathy

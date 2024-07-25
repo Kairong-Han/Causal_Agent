@@ -1,0 +1,8 @@
+Graph Nodes:
+Thrombocytopenia;Cirrhosis;Cardiac Catheterization;Gastroesophageal Reflux Disease;CT Scan
+
+Graph Edges:
+1. Thrombocytopenia --> Gastroesophageal Reflux Disease
+2. Cardiac Catheterization --> Cirrhosis
+3. CT Scan --> Cirrhosis
+4. Cardiac Catheterization --> Gastroesophageal Reflux Disease

@@ -1,0 +1,6 @@
+Graph Nodes:
+Gynecologic Surgery;Gentamicin;Lymphoma;Parkinson's Disease;Epidemiology;Ophthalmic Surgery;Irritable Bowel Syndrome;Robotic Surgery
+
+Graph Edges:
+1. Gentamicin --- Ophthalmic Surgery
+2. Lymphoma --- Epidemiology

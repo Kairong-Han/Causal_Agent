@@ -1,0 +1,8 @@
+Graph Nodes:
+Price Strategy;Net Promoter Score;Visual Design;Creative Strategy
+
+Graph Edges:
+1. Price Strategy --- Visual Design
+2. Price Strategy --> Creative Strategy
+3. Net Promoter Score --> Creative Strategy
+4. Visual Design --> Creative Strategy

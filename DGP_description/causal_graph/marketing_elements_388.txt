@@ -1,0 +1,6 @@
+Graph Nodes:
+Target Audience;Community Building;Email Marketing;Trade Shows;Reputation Management;Customer Lifetime Value;Whitepapers
+
+Graph Edges:
+1. Email Marketing --> Whitepapers
+2. Reputation Management --> Whitepapers

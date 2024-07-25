@@ -1,0 +1,5 @@
+Graph Nodes:
+Omnichannel Marketing;Sponsorship Marketing;Blog Posts;Marketing Automation;Social Media Reach
+
+Graph Edges:
+1. Sponsorship Marketing --- Marketing Automation

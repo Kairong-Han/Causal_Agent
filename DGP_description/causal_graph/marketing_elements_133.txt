@@ -1,0 +1,7 @@
+Graph Nodes:
+Public Relations;User Experience;E-books;Packaging Design
+
+Graph Edges:
+1. Public Relations --- User Experience
+2. User Experience --> Packaging Design
+3. E-books --> Packaging Design

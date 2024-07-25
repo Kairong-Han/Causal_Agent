@@ -1,0 +1,11 @@
+Graph Nodes:
+Website Traffic;Social Responsibility;Customer Feedback;Sponsorship Marketing;Customer Data Platform;Creative Strategy;Sustainability Marketing;Marketing Mix;Value Proposition
+
+Graph Edges:
+1. Sponsorship Marketing --> Website Traffic
+2. Marketing Mix --> Website Traffic
+3. Social Responsibility --> Sponsorship Marketing
+4. Sustainability Marketing --> Sponsorship Marketing
+5. Marketing Mix --> Creative Strategy
+6. Value Proposition --> Creative Strategy
+7. Sustainability Marketing --- Value Proposition

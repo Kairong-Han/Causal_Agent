@@ -1,0 +1,17 @@
+Graph Nodes:
+Diabetes Mellitus;Valvular Heart Disease;Macular Degeneration;CT Scan;Peripheral Artery Disease;Morphine;Sarcoma;Liver Function Tests;Coagulation Disorders
+
+Graph Edges:
+1. Diabetes Mellitus --> Valvular Heart Disease
+2. Diabetes Mellitus --> Macular Degeneration
+3. Diabetes Mellitus --> Peripheral Artery Disease
+4. Macular Degeneration --> Valvular Heart Disease
+5. CT Scan --> Valvular Heart Disease
+6. Sarcoma --> Valvular Heart Disease
+7. Liver Function Tests --> Valvular Heart Disease
+8. Macular Degeneration --- Peripheral Artery Disease
+9. Morphine --> Macular Degeneration
+10. Morphine --> CT Scan
+11. Coagulation Disorders --> CT Scan
+12. Morphine --> Peripheral Artery Disease
+13. Sarcoma --- Liver Function Tests

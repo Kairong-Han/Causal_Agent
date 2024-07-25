@@ -1,0 +1,6 @@
+Graph Nodes:
+General Surgery;Arthritis;Coagulation Disorders
+
+Graph Edges:
+1. General Surgery --> Coagulation Disorders
+2. Arthritis --> Coagulation Disorders

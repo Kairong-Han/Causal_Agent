@@ -1,0 +1,11 @@
+Graph Nodes:
+ENT Surgery;Pyelonephritis;Emphysema;Medical Imaging;Laboratory Medicine;Obstetrics;Health Informatics
+
+Graph Edges:
+1. ENT Surgery --> Pyelonephritis
+2. Pyelonephritis --> Emphysema
+3. Laboratory Medicine --> Pyelonephritis
+4. Medical Imaging --> Emphysema
+5. Obstetrics --> Emphysema
+6. Medical Imaging --> Laboratory Medicine
+7. Obstetrics --> Laboratory Medicine

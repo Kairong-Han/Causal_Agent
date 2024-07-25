@@ -1,0 +1,14 @@
+Graph Nodes:
+Insulin;Pneumonitis;Pathology;Psychiatry;Healthcare Management;Osteoporosis;ECG
+
+Graph Edges:
+1. Insulin --> Pneumonitis
+2. Pathology --> Insulin
+3. Osteoporosis --> Insulin
+4. ECG --> Insulin
+5. Pathology --> Pneumonitis
+6. Healthcare Management --> Pneumonitis
+7. ECG --> Pneumonitis
+8. Pathology --- Psychiatry
+9. Psychiatry --> ECG
+10. Osteoporosis --> ECG

@@ -1,0 +1,17 @@
+Graph Nodes:
+Trade Shows;Sales Performance;Cost Per Click;Brand Loyalty;Influencer Partnerships;Event Marketing;Brand Personality;Customer Lifetime Value
+
+Graph Edges:
+1. Trade Shows --> Sales Performance
+2. Cost Per Click --> Trade Shows
+3. Influencer Partnerships --> Trade Shows
+4. Cost Per Click --> Sales Performance
+5. Brand Loyalty --> Sales Performance
+6. Influencer Partnerships --> Sales Performance
+7. Cost Per Click --> Brand Loyalty
+8. Event Marketing --> Brand Loyalty
+9. Brand Personality --> Brand Loyalty
+10. Customer Lifetime Value --> Brand Loyalty
+11. Brand Personality --> Influencer Partnerships
+12. Customer Lifetime Value --> Influencer Partnerships
+13. Event Marketing --- Brand Personality

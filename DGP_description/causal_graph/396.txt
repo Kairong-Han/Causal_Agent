@@ -1,0 +1,13 @@
+Graph Nodes:
+Pediatric Surgery;Cardiomyopathy;HIV/AIDS;Leukemia;Arrhythmia;Public Health;Peripheral Artery Disease
+
+Graph Edges:
+1. Pediatric Surgery --> Cardiomyopathy
+2. Pediatric Surgery --> Leukemia
+3. HIV/AIDS --> Cardiomyopathy
+4. Leukemia --> Cardiomyopathy
+5. HIV/AIDS --> Arrhythmia
+6. Arrhythmia --> Leukemia
+7. Public Health --> Leukemia
+8. Public Health --> Arrhythmia
+9. Public Health --- Peripheral Artery Disease

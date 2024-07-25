@@ -1,0 +1,6 @@
+Graph Nodes:
+Ophthalmology;Psychiatry;Public Health
+
+Graph Edges:
+1. Ophthalmology --> Public Health
+2. Psychiatry --> Public Health

@@ -1,0 +1,14 @@
+Graph Nodes:
+Urinary Tract Infection;Ultrasound;Pathology;Metastasis;Cirrhosis;Parkinson's Disease;Valvular Heart Disease;Vertigo
+
+Graph Edges:
+1. Urinary Tract Infection --> Pathology
+2. Urinary Tract Infection --> Metastasis
+3. Ultrasound --> Cirrhosis
+4. Ultrasound --> Parkinson's Disease
+5. Metastasis --> Pathology
+6. Valvular Heart Disease --> Pathology
+7. Parkinson's Disease --> Metastasis
+8. Cirrhosis --- Parkinson's Disease
+9. Vertigo --> Cirrhosis
+10. Vertigo --> Parkinson's Disease

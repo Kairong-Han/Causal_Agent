@@ -1,0 +1,7 @@
+Graph Nodes:
+Gynecology;Hypertension;Pancreatitis;Osteoporosis;Gastroesophageal Reflux Disease
+
+Graph Edges:
+1. Osteoporosis --> Gynecology
+2. Gastroesophageal Reflux Disease --> Gynecology
+3. Pancreatitis --- Gastroesophageal Reflux Disease

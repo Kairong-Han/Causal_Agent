@@ -1,0 +1,7 @@
+Graph Nodes:
+Personalization;Product Positioning;Video Production;Infographics
+
+Graph Edges:
+1. Personalization --- Infographics
+2. Product Positioning --> Video Production
+3. Infographics --> Video Production

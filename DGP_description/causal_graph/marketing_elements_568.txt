@@ -1,0 +1,11 @@
+Graph Nodes:
+Product Development;Employer Branding;Geotargeting;Data Analytics;Sales Collateral;Social Listening;Employee Engagement
+
+Graph Edges:
+1. Product Development --> Employer Branding
+2. Product Development --> Geotargeting
+3. Product Development --> Data Analytics
+4. Employer Branding --> Geotargeting
+5. Data Analytics --> Employer Branding
+6. Social Listening --> Employer Branding
+7. Sales Collateral --> Data Analytics

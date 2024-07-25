@@ -1,0 +1,6 @@
+Graph Nodes:
+Customer Reviews;Content Distribution;Consumer Behavior Analysis
+
+Graph Edges:
+1. Customer Reviews --- Content Distribution
+2. Customer Reviews --- Consumer Behavior Analysis

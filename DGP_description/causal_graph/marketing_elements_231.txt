@@ -1,0 +1,6 @@
+Graph Nodes:
+Corporate Identity;Customer Feedback;E-books
+
+Graph Edges:
+1. Corporate Identity --> Customer Feedback
+2. E-books --> Customer Feedback

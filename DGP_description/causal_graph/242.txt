@@ -1,0 +1,9 @@
+Graph Nodes:
+General Surgery;Sarcoma;Osteoarthritis;Plastic Surgery
+
+Graph Edges:
+1. General Surgery --- Sarcoma
+2. General Surgery --> Osteoarthritis
+3. Sarcoma --> Osteoarthritis
+4. Sarcoma --- Plastic Surgery
+5. Plastic Surgery --> Osteoarthritis

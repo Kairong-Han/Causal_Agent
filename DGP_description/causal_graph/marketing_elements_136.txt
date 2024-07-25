@@ -1,0 +1,7 @@
+Graph Nodes:
+Product Bundling;Logo Design;Psychographic Targeting;Employer Branding
+
+Graph Edges:
+1. Product Bundling --- Logo Design
+2. Logo Design --> Employer Branding
+3. Psychographic Targeting --> Employer Branding

@@ -1,0 +1,6 @@
+Graph Nodes:
+Joint Replacement;Ibuprofen;Pediatric Surgery
+
+Graph Edges:
+1. Joint Replacement --- Ibuprofen
+2. Joint Replacement --- Pediatric Surgery

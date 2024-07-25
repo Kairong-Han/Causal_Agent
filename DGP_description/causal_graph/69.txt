@@ -1,0 +1,6 @@
+Graph Nodes:
+Pneumonia;Tinnitus;Penicillin
+
+Graph Edges:
+1. Pneumonia --> Penicillin
+2. Tinnitus --> Penicillin

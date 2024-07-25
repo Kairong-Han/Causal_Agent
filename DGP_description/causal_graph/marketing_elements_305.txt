@@ -1,0 +1,5 @@
+Graph Nodes:
+Cart Abandonment;Pipeline Management;Interactive Media;Customer Acquisition Cost;Press Releases;Brand Ambassadors
+
+Graph Edges:
+1. Customer Acquisition Cost --- Brand Ambassadors

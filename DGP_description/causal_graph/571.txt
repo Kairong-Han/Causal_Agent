@@ -1,0 +1,10 @@
+Graph Nodes:
+Medical Imaging;Irritable Bowel Syndrome;Aspirin;Otorhinolaryngology;Erythromycin
+
+Graph Edges:
+1. Medical Imaging --- Irritable Bowel Syndrome
+2. Medical Imaging --- Aspirin
+3. Medical Imaging --- Erythromycin
+4. Irritable Bowel Syndrome --- Aspirin
+5. Irritable Bowel Syndrome --- Erythromycin
+6. Otorhinolaryngology --- Erythromycin

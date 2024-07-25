@@ -1,0 +1,6 @@
+Graph Nodes:
+ENT Surgery;Oncology;Spinal Cord Injury;Vertigo
+
+Graph Edges:
+1. Oncology --- Spinal Cord Injury
+2. Spinal Cord Injury --- Vertigo

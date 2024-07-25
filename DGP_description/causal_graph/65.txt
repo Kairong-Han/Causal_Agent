@@ -1,0 +1,5 @@
+Graph Nodes:
+Tuberculosis;Pediatric Surgery;Codeine
+
+Graph Edges:
+1. Tuberculosis --- Pediatric Surgery

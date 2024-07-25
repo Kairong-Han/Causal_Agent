@@ -1,0 +1,9 @@
+Graph Nodes:
+Erythromycin;Antipyrine;Plastic Surgery;Irritable Bowel Syndrome;Glaucoma
+
+Graph Edges:
+1. Plastic Surgery --> Erythromycin
+2. Irritable Bowel Syndrome --> Erythromycin
+3. Erythromycin --- Glaucoma
+4. Plastic Surgery --> Glaucoma
+5. Irritable Bowel Syndrome --> Glaucoma

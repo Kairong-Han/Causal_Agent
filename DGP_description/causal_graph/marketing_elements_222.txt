@@ -1,0 +1,5 @@
+Graph Nodes:
+Testimonials;Eco-Friendly Practices;Podcasts;Surveys;Customer Satisfaction Score
+
+Graph Edges:
+1. Podcasts --- Customer Satisfaction Score

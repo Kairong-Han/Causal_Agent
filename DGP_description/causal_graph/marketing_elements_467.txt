@@ -1,0 +1,14 @@
+Graph Nodes:
+Target Audience;Employer Branding;Cart Abandonment;Product Bundling;Subscription Models;Crisis Management;Brand Loyalty;Sales Enablement
+
+Graph Edges:
+1. Target Audience --- Cart Abandonment
+2. Target Audience --- Sales Enablement
+3. Product Bundling --> Employer Branding
+4. Subscription Models --> Employer Branding
+5. Cart Abandonment --> Product Bundling
+6. Cart Abandonment --- Sales Enablement
+7. Crisis Management --> Product Bundling
+8. Brand Loyalty --> Product Bundling
+9. Crisis Management --> Subscription Models
+10. Brand Loyalty --> Subscription Models

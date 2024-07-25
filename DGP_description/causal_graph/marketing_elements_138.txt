@@ -1,0 +1,7 @@
+Graph Nodes:
+Segmentation Strategy;Target Audience;Employee Engagement;Omnichannel Marketing
+
+Graph Edges:
+1. Employee Engagement --> Segmentation Strategy
+2. Omnichannel Marketing --> Segmentation Strategy
+3. Target Audience --- Employee Engagement

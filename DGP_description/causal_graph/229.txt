@@ -1,0 +1,5 @@
+Graph Nodes:
+Carcinoma;Pharmacology;Creatinine;Blood Lipid Profile;Ibuprofen
+
+Graph Edges:
+1. Creatinine --- Ibuprofen

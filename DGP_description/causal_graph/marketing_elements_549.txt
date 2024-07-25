@@ -1,0 +1,17 @@
+Graph Nodes:
+Creative Strategy;Ambush Marketing;Engagement Rate;Content Distribution;Return on Ad Spend;Pipeline Management;Sales Training;Whitepapers;Loyalty Programs
+
+Graph Edges:
+1. Creative Strategy --> Ambush Marketing
+2. Creative Strategy --> Engagement Rate
+3. Creative Strategy --> Return on Ad Spend
+4. Engagement Rate --> Ambush Marketing
+5. Content Distribution --> Ambush Marketing
+6. Sales Training --> Ambush Marketing
+7. Whitepapers --> Ambush Marketing
+8. Engagement Rate --- Return on Ad Spend
+9. Pipeline Management --> Engagement Rate
+10. Pipeline Management --> Content Distribution
+11. Loyalty Programs --> Content Distribution
+12. Pipeline Management --> Return on Ad Spend
+13. Sales Training --- Whitepapers

@@ -1,0 +1,7 @@
+Graph Nodes:
+Osteoporosis;Chronic Obstructive Pulmonary Disease;Nutrition
+
+Graph Edges:
+1. Osteoporosis --- Chronic Obstructive Pulmonary Disease
+2. Osteoporosis --- Nutrition
+3. Chronic Obstructive Pulmonary Disease --- Nutrition

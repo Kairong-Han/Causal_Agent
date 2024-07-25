@@ -1,0 +1,11 @@
+Graph Nodes:
+Employee Engagement;Market Research;Market Segmentation;Social Listening;User Experience;Advertising Campaign
+
+Graph Edges:
+1. Market Segmentation --> Employee Engagement
+2. Social Listening --> Employee Engagement
+3. Advertising Campaign --> Employee Engagement
+4. Market Research --> Market Segmentation
+5. Social Listening --> Market Segmentation
+6. User Experience --> Market Segmentation
+7. User Experience --- Advertising Campaign

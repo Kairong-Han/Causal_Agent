@@ -1,0 +1,17 @@
+Graph Nodes:
+Family Medicine;Aspirin;Plastic Surgery;Hip Fracture Repair;Speech Therapy;Hemophilia;Rubella;Anemia;Endocarditis
+
+Graph Edges:
+1. Aspirin --> Family Medicine
+2. Plastic Surgery --> Family Medicine
+3. Endocarditis --> Family Medicine
+4. Plastic Surgery --> Aspirin
+5. Hip Fracture Repair --> Aspirin
+6. Rubella --> Aspirin
+7. Speech Therapy --> Plastic Surgery
+8. Hemophilia --> Plastic Surgery
+9. Rubella --> Plastic Surgery
+10. Anemia --> Plastic Surgery
+11. Hemophilia --> Speech Therapy
+12. Rubella --> Speech Therapy
+13. Endocarditis --> Speech Therapy

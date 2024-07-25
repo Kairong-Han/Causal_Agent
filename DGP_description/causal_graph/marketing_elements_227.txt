@@ -1,0 +1,6 @@
+Graph Nodes:
+Green Marketing;Freemium Models;Testimonials;Marketing Automation
+
+Graph Edges:
+1. Green Marketing --- Testimonials
+2. Freemium Models --- Marketing Automation

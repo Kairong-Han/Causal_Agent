@@ -1,0 +1,7 @@
+Graph Nodes:
+Stroke;Physiotherapy;Radiology;Asthma;Peptic Ulcer Disease
+
+Graph Edges:
+1. Stroke --- Radiology
+2. Physiotherapy --> Peptic Ulcer Disease
+3. Radiology --> Peptic Ulcer Disease

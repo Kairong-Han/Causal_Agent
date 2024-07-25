@@ -1,0 +1,5 @@
+Graph Nodes:
+Upselling;Influencer Partnerships;Target Audience;Community Building
+
+Graph Edges:
+1. Influencer Partnerships --- Community Building

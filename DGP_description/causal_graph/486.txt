@@ -1,0 +1,17 @@
+Graph Nodes:
+Electrolytes;Plastic Surgery;Cardiac Catheterization;Cholera;Laboratory Medicine;Influenza;Tuberculosis;Family Medicine
+
+Graph Edges:
+1. Cholera --> Electrolytes
+2. Laboratory Medicine --> Electrolytes
+3. Influenza --> Electrolytes
+4. Cholera --> Plastic Surgery
+5. Laboratory Medicine --> Plastic Surgery
+6. Tuberculosis --> Plastic Surgery
+7. Family Medicine --> Plastic Surgery
+8. Cholera --> Cardiac Catheterization
+9. Family Medicine --> Cardiac Catheterization
+10. Cholera --- Influenza
+11. Cholera --> Tuberculosis
+12. Laboratory Medicine --> Tuberculosis
+13. Influenza --> Tuberculosis

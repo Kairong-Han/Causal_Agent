@@ -1,0 +1,9 @@
+Graph Nodes:
+Robotic Surgery;Obstetrics;Ultrasound;Metastasis;Pulmonology;Vertigo;Hip Fracture Repair;Kidney Function Tests;Penicillin
+
+Graph Edges:
+1. Obstetrics --> Robotic Surgery
+2. Hip Fracture Repair --> Robotic Surgery
+3. Obstetrics --- Metastasis
+4. Ultrasound --- Penicillin
+5. Pulmonology --- Hip Fracture Repair

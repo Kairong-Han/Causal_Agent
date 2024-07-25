@@ -1,0 +1,5 @@
+Graph Nodes:
+Urinary Tract Infection;Dietetics;Multiple Sclerosis;Platelet Count;Endoscopy;Laser Surgery
+
+Graph Edges:
+1. Urinary Tract Infection --- Laser Surgery

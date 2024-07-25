@@ -1,0 +1,10 @@
+Graph Nodes:
+Video Production;Cross-Selling;Freemium Models;Downselling;Search Engine Marketing;Omnichannel Marketing
+
+Graph Edges:
+1. Video Production --- Search Engine Marketing
+2. Video Production --- Omnichannel Marketing
+3. Freemium Models --> Cross-Selling
+4. Downselling --> Cross-Selling
+5. Search Engine Marketing --> Cross-Selling
+6. Search Engine Marketing --- Omnichannel Marketing

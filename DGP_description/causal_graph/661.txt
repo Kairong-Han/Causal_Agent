@@ -1,0 +1,6 @@
+Graph Nodes:
+Transplant Surgery;Aspirin;Creatinine;Gallstones;Anemia;Laser Surgery;Endoscopy;Cardiomyopathy;Endocarditis
+
+Graph Edges:
+1. Creatinine --- Anemia
+2. Laser Surgery --- Endoscopy

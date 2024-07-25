@@ -1,0 +1,5 @@
+Graph Nodes:
+Malaria;Macular Degeneration;Emergency Medicine;Trauma Surgery;Sarcoma
+
+Graph Edges:
+1. Malaria --- Trauma Surgery

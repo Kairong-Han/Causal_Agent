@@ -1,0 +1,6 @@
+Graph Nodes:
+Gentamicin;Oncology;Health Informatics
+
+Graph Edges:
+1. Gentamicin --> Oncology
+2. Health Informatics --> Oncology

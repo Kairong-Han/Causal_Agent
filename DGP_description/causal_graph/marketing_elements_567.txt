@@ -1,0 +1,14 @@
+Graph Nodes:
+Visual Design;Geotargeting;Trade Shows;Customer Retention Rate;Competitive Analysis;Virtual Events;Video Views;GMV
+
+Graph Edges:
+1. Trade Shows --> Visual Design
+2. Customer Retention Rate --> Visual Design
+3. Competitive Analysis --> Visual Design
+4. Virtual Events --> Visual Design
+5. Geotargeting --- Virtual Events
+6. Customer Retention Rate --> Trade Shows
+7. Competitive Analysis --> Trade Shows
+8. Virtual Events --> Customer Retention Rate
+9. Video Views --> Customer Retention Rate
+10. Competitive Analysis --- Video Views

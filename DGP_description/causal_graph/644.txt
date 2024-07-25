@@ -1,0 +1,17 @@
+Graph Nodes:
+Coagulation Disorders;Hepatitis;Psychiatry;Gynecologic Surgery;Cephalosporins;Heart Rate;Deep Vein Thrombosis;Cholecystitis;Joint Replacement;Speech Therapy
+
+Graph Edges:
+1. Coagulation Disorders --> Heart Rate
+2. Coagulation Disorders --> Deep Vein Thrombosis
+3. Hepatitis --> Psychiatry
+4. Hepatitis --> Gynecologic Surgery
+5. Hepatitis --> Heart Rate
+6. Psychiatry --> Cholecystitis
+7. Joint Replacement --> Psychiatry
+8. Cephalosporins --> Gynecologic Surgery
+9. Cephalosporins --> Heart Rate
+10. Cephalosporins --> Deep Vein Thrombosis
+11. Deep Vein Thrombosis --> Heart Rate
+12. Speech Therapy --> Heart Rate
+13. Joint Replacement --> Deep Vein Thrombosis

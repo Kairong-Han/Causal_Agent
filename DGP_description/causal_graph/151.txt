@@ -1,0 +1,5 @@
+Graph Nodes:
+Menigitis;Pulmonology;Cholecystitis;Electrolytes
+
+Graph Edges:
+1. Cholecystitis --- Electrolytes

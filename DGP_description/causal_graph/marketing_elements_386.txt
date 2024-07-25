@@ -1,0 +1,5 @@
+Graph Nodes:
+Advertising Campaign;Price Strategy;Crisis Management;Brand Ambassadors;Lead Nurturing;Press Releases;Content Distribution
+
+Graph Edges:
+1. Price Strategy --- Crisis Management

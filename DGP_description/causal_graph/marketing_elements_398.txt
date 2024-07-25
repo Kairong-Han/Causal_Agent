@@ -1,0 +1,6 @@
+Graph Nodes:
+Webinars;Unique Selling Proposition;User Experience;Brand Loyalty;Competitive Analysis;Corporate Social Initiatives
+
+Graph Edges:
+1. Unique Selling Proposition --- Competitive Analysis
+2. Unique Selling Proposition --- Corporate Social Initiatives

@@ -1,0 +1,12 @@
+Graph Nodes:
+Metastasis;Plastic Surgery;Morphine;Peripheral Artery Disease;Robotic Surgery;Nephrology
+
+Graph Edges:
+1. Morphine --> Metastasis
+2. Peripheral Artery Disease --> Metastasis
+3. Nephrology --> Metastasis
+4. Morphine --> Plastic Surgery
+5. Peripheral Artery Disease --> Plastic Surgery
+6. Nephrology --> Plastic Surgery
+7. Morphine --- Nephrology
+8. Peripheral Artery Disease --- Robotic Surgery

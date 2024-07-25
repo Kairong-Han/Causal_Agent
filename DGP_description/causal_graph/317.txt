@@ -1,0 +1,14 @@
+Graph Nodes:
+Gentamicin;Gastroenterology;Cancer;Hemophilia;Hematology;Gynecology
+
+Graph Edges:
+1. Gastroenterology --> Gentamicin
+2. Hemophilia --> Gentamicin
+3. Gentamicin --> Hematology
+4. Gastroenterology --> Cancer
+5. Gastroenterology --> Gynecology
+6. Hemophilia --> Cancer
+7. Hematology --> Cancer
+8. Gynecology --> Cancer
+9. Hemophilia --> Hematology
+10. Hematology --> Gynecology

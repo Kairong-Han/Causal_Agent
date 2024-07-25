@@ -1,0 +1,7 @@
+Graph Nodes:
+Net Promoter Score;Programmatic Advertising;Advertising Campaign;Target Audience
+
+Graph Edges:
+1. Net Promoter Score --> Target Audience
+2. Programmatic Advertising --- Advertising Campaign
+3. Programmatic Advertising --> Target Audience

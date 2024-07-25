@@ -1,0 +1,8 @@
+Graph Nodes:
+Hematology;Thrombocytopenia;Congestive Heart Failure;Osteoporosis
+
+Graph Edges:
+1. Congestive Heart Failure --> Hematology
+2. Osteoporosis --> Hematology
+3. Congestive Heart Failure --> Thrombocytopenia
+4. Osteoporosis --> Thrombocytopenia

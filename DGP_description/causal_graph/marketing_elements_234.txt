@@ -1,0 +1,5 @@
+Graph Nodes:
+Psychographic Targeting;Sales Funnel Optimization;Crisis Management
+
+Graph Edges:
+1. Psychographic Targeting --- Crisis Management

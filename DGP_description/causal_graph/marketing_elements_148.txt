@@ -1,0 +1,4 @@
+Graph Nodes:
+Social Media Reach;Customer Feedback;Employee Engagement
+
+Graph Edges:

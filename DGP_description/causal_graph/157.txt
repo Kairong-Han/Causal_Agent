@@ -1,0 +1,6 @@
+Graph Nodes:
+Cardiovascular Surgery;Alzheimer's Disease;Kidney Stones
+
+Graph Edges:
+1. Cardiovascular Surgery --- Kidney Stones
+2. Alzheimer's Disease --- Kidney Stones

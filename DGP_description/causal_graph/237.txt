@@ -1,0 +1,5 @@
+Graph Nodes:
+Gentamicin;Rheumatoid Arthritis;Otorhinolaryngology;Electrolytes;Endocrinology
+
+Graph Edges:
+1. Otorhinolaryngology --- Endocrinology

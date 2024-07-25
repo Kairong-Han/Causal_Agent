@@ -1,0 +1,8 @@
+Graph Nodes:
+Customer Data Platform;Content Syndication;Segmentation Strategy;Corporate Social Initiatives;Brand Loyalty
+
+Graph Edges:
+1. Segmentation Strategy --> Customer Data Platform
+2. Corporate Social Initiatives --> Customer Data Platform
+3. Segmentation Strategy --- Brand Loyalty
+4. Corporate Social Initiatives --- Brand Loyalty

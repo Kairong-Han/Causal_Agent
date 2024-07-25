@@ -1,0 +1,4 @@
+Graph Nodes:
+Lead Nurturing;Corporate Identity;Impression Share;Product Positioning;Corporate Reputation
+
+Graph Edges:

@@ -1,0 +1,7 @@
+Graph Nodes:
+Cart Abandonment;Case Studies;Surveys;Psychographic Targeting
+
+Graph Edges:
+1. Surveys --> Cart Abandonment
+2. Psychographic Targeting --> Cart Abandonment
+3. Case Studies --- Surveys

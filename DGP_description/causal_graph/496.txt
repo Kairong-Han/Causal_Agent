@@ -1,0 +1,12 @@
+Graph Nodes:
+Asthma;Hepatitis B;Platelet Count;Transplant Surgery;Codeine;Bronchitis
+
+Graph Edges:
+1. Hepatitis B --> Asthma
+2. Transplant Surgery --> Asthma
+3. Hepatitis B --> Platelet Count
+4. Hepatitis B --> Bronchitis
+5. Transplant Surgery --> Platelet Count
+6. Codeine --> Platelet Count
+7. Bronchitis --> Platelet Count
+8. Transplant Surgery --> Bronchitis

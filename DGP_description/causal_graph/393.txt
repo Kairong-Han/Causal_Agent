@@ -1,0 +1,11 @@
+Graph Nodes:
+Metastasis;Varicella;Red Blood Cell Count;Nutrition;Platelet Count;Cholesterol Level;Dermatology
+
+Graph Edges:
+1. Metastasis --> Varicella
+2. Varicella --> Red Blood Cell Count
+3. Platelet Count --> Varicella
+4. Nutrition --> Red Blood Cell Count
+5. Cholesterol Level --> Red Blood Cell Count
+6. Nutrition --> Platelet Count
+7. Cholesterol Level --> Platelet Count

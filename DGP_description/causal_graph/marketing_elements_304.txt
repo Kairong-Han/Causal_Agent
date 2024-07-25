@@ -1,0 +1,5 @@
+Graph Nodes:
+Programmatic Advertising;Focus Groups;Surveys;Value Proposition;Target Market Selection;Net Promoter Score
+
+Graph Edges:
+1. Focus Groups --- Net Promoter Score

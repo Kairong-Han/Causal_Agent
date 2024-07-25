@@ -1,0 +1,9 @@
+Graph Nodes:
+Hyperopia;Gallstones;Urinary Tract Infection;Pathology;Pyelonephritis
+
+Graph Edges:
+1. Hyperopia --- Pathology
+2. Urinary Tract Infection --> Gallstones
+3. Pathology --> Gallstones
+4. Urinary Tract Infection --> Pyelonephritis
+5. Pathology --> Pyelonephritis

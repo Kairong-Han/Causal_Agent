@@ -1,0 +1,13 @@
+Graph Nodes:
+Chronic Obstructive Pulmonary Disease;Thrombocytopenia;Hypertension;Encephalitis;Arthritis;Macular Degeneration;Gastroenterology
+
+Graph Edges:
+1. Chronic Obstructive Pulmonary Disease --> Thrombocytopenia
+2. Hypertension --> Thrombocytopenia
+3. Encephalitis --> Hypertension
+4. Macular Degeneration --> Hypertension
+5. Gastroenterology --> Hypertension
+6. Encephalitis --> Arthritis
+7. Macular Degeneration --> Arthritis
+8. Gastroenterology --> Arthritis
+9. Macular Degeneration --- Gastroenterology

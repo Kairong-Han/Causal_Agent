@@ -1,0 +1,4 @@
+Graph Nodes:
+Customer Satisfaction Score;Video Views;Data Analytics;Sales Performance
+
+Graph Edges:

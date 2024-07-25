@@ -1,0 +1,17 @@
+Graph Nodes:
+Content Strategy;Guerrilla Marketing;Visual Design;GMV;Sales Training;Product Development;Cross-Selling;Net Promoter Score;Employee Engagement
+
+Graph Edges:
+1. Guerrilla Marketing --> Content Strategy
+2. Visual Design --> Content Strategy
+3. Employee Engagement --> Content Strategy
+4. Visual Design --> Guerrilla Marketing
+5. GMV --> Guerrilla Marketing
+6. Cross-Selling --> Guerrilla Marketing
+7. Sales Training --> Visual Design
+8. Product Development --> Visual Design
+9. Cross-Selling --> Visual Design
+10. Net Promoter Score --> Visual Design
+11. Product Development --> Sales Training
+12. Cross-Selling --> Sales Training
+13. Employee Engagement --> Sales Training

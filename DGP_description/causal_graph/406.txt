@@ -1,0 +1,8 @@
+Graph Nodes:
+Pulmonary Embolism;EEG;Emphysema;Radiology;Orthopedic Surgery
+
+Graph Edges:
+1. Emphysema --> Pulmonary Embolism
+2. Radiology --> Pulmonary Embolism
+3. EEG --> Orthopedic Surgery
+4. Radiology --> Orthopedic Surgery

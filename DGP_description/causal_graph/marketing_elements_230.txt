@@ -1,0 +1,4 @@
+Graph Nodes:
+Advertising Campaign;Social Responsibility;Affiliate Marketing;Geotargeting
+
+Graph Edges:

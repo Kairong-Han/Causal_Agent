@@ -1,0 +1,9 @@
+Graph Nodes:
+Email Marketing;Freemium Models;Customer Feedback;Corporate Communications;Packaging Design
+
+Graph Edges:
+1. Email Marketing --> Customer Feedback
+2. Freemium Models --> Packaging Design
+3. Corporate Communications --> Customer Feedback
+4. Packaging Design --> Customer Feedback
+5. Corporate Communications --> Packaging Design

@@ -1,0 +1,16 @@
+Graph Nodes:
+Pulmonology;Oncology;Congestive Heart Failure;Sarcoma;Dyslipidemia;Codeine;Emergency Medicine;Arthritis
+
+Graph Edges:
+1. Pulmonology --> Oncology
+2. Pulmonology --> Sarcoma
+3. Pulmonology --> Codeine
+4. Codeine --> Oncology
+5. Emergency Medicine --> Oncology
+6. Codeine --> Congestive Heart Failure
+7. Emergency Medicine --> Congestive Heart Failure
+8. Dyslipidemia --> Sarcoma
+9. Codeine --> Sarcoma
+10. Emergency Medicine --> Dyslipidemia
+11. Arthritis --> Dyslipidemia
+12. Arthritis --> Codeine

@@ -1,0 +1,8 @@
+Graph Nodes:
+Ethical Marketing;Value Proposition;GMV;Internal Marketing;Price Strategy
+
+Graph Edges:
+1. Ethical Marketing --- Price Strategy
+2. GMV --> Value Proposition
+3. Price Strategy --> Value Proposition
+4. GMV --- Internal Marketing

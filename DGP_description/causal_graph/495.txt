@@ -1,0 +1,11 @@
+Graph Nodes:
+Physiotherapy;Kidney Function Tests;Platelet Count;Encephalitis;Hepatitis C
+
+Graph Edges:
+1. Kidney Function Tests --> Physiotherapy
+2. Platelet Count --> Physiotherapy
+3. Hepatitis C --> Physiotherapy
+4. Kidney Function Tests --- Platelet Count
+5. Kidney Function Tests --> Encephalitis
+6. Platelet Count --> Encephalitis
+7. Hepatitis C --> Encephalitis

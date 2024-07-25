@@ -1,0 +1,15 @@
+Graph Nodes:
+Data Analytics;Internal Marketing;Search Engine Rankings;Customer Lifetime Value;Market Segmentation;Affiliate Marketing;Cost Per Acquisition;Brand Ambassadors
+
+Graph Edges:
+1. Search Engine Rankings --> Data Analytics
+2. Market Segmentation --> Data Analytics
+3. Cost Per Acquisition --> Data Analytics
+4. Customer Lifetime Value --> Internal Marketing
+5. Affiliate Marketing --> Internal Marketing
+6. Cost Per Acquisition --> Internal Marketing
+7. Search Engine Rankings --- Customer Lifetime Value
+8. Search Engine Rankings --> Market Segmentation
+9. Customer Lifetime Value --> Market Segmentation
+10. Affiliate Marketing --> Market Segmentation
+11. Brand Ambassadors --> Market Segmentation

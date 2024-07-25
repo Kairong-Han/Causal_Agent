@@ -1,0 +1,10 @@
+Graph Nodes:
+Brand Personality;Sponsorship Marketing;Creative Strategy;Customer Journey Mapping;Content Views;Customer Satisfaction Score
+
+Graph Edges:
+1. Brand Personality --> Sponsorship Marketing
+2. Brand Personality --> Creative Strategy
+3. Creative Strategy --> Sponsorship Marketing
+4. Content Views --> Sponsorship Marketing
+5. Customer Satisfaction Score --> Creative Strategy
+6. Content Views --- Customer Satisfaction Score

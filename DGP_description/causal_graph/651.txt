@@ -1,0 +1,18 @@
+Graph Nodes:
+Arthritis;Neurosurgery;Occupational Therapy;Dermatology;Tuberculosis;Red Blood Cell Count;Bronchitis;Septicemia;Family Medicine;Hypertension
+
+Graph Edges:
+1. Neurosurgery --> Arthritis
+2. Arthritis --> Occupational Therapy
+3. Dermatology --> Arthritis
+4. Red Blood Cell Count --> Arthritis
+5. Hypertension --> Arthritis
+6. Neurosurgery --> Tuberculosis
+7. Dermatology --> Occupational Therapy
+8. Red Blood Cell Count --> Occupational Therapy
+9. Hypertension --> Occupational Therapy
+10. Dermatology --> Bronchitis
+11. Hypertension --> Tuberculosis
+12. Bronchitis --> Red Blood Cell Count
+13. Septicemia --> Red Blood Cell Count
+14. Family Medicine --> Bronchitis

@@ -1,0 +1,5 @@
+Graph Nodes:
+Astigmatism;Family Medicine;Sarcoma;Pathology;Gastroesophageal Reflux Disease;Nephrology;Immunology;Myopia;Intensive Care Unit
+
+Graph Edges:
+1. Astigmatism --- Immunology

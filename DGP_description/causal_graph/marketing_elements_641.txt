@@ -1,0 +1,18 @@
+Graph Nodes:
+Customer Relationship Management;Demographic Targeting;Customer Reviews;Public Relations;Search Engine Rankings;Customer Retention Rate;Case Studies;Price Strategy;Sponsorship Marketing;Value Proposition
+
+Graph Edges:
+1. Demographic Targeting --> Customer Relationship Management
+2. Customer Relationship Management --> Customer Reviews
+3. Public Relations --> Customer Relationship Management
+4. Customer Retention Rate --> Customer Relationship Management
+5. Value Proposition --> Customer Relationship Management
+6. Demographic Targeting --> Search Engine Rankings
+7. Public Relations --> Customer Reviews
+8. Customer Retention Rate --> Customer Reviews
+9. Value Proposition --> Customer Reviews
+10. Public Relations --> Case Studies
+11. Value Proposition --> Search Engine Rankings
+12. Case Studies --> Customer Retention Rate
+13. Price Strategy --> Customer Retention Rate
+14. Sponsorship Marketing --> Case Studies

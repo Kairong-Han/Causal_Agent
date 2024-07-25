@@ -1,0 +1,12 @@
+Graph Nodes:
+Measles;Hematology;Melanoma;Macular Degeneration;Gynecology;Inflammatory Bowel Disease
+
+Graph Edges:
+1. Melanoma --> Measles
+2. Macular Degeneration --> Measles
+3. Gynecology --> Measles
+4. Inflammatory Bowel Disease --> Measles
+5. Melanoma --> Hematology
+6. Macular Degeneration --> Hematology
+7. Macular Degeneration --> Inflammatory Bowel Disease
+8. Gynecology --> Inflammatory Bowel Disease

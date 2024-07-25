@@ -1,0 +1,17 @@
+Graph Nodes:
+Kidney Function Tests;Glaucoma;Family Medicine;Erythromycin;Emphysema;Ophthalmic Surgery;Laboratory Medicine;Intensive Care Unit;Pyelonephritis;Urinary Tract Infection
+
+Graph Edges:
+1. Kidney Function Tests --> Ophthalmic Surgery
+2. Kidney Function Tests --> Laboratory Medicine
+3. Glaucoma --> Family Medicine
+4. Glaucoma --> Erythromycin
+5. Glaucoma --> Ophthalmic Surgery
+6. Family Medicine --> Intensive Care Unit
+7. Pyelonephritis --> Family Medicine
+8. Emphysema --> Erythromycin
+9. Emphysema --> Ophthalmic Surgery
+10. Emphysema --> Laboratory Medicine
+11. Laboratory Medicine --> Ophthalmic Surgery
+12. Urinary Tract Infection --> Ophthalmic Surgery
+13. Pyelonephritis --> Laboratory Medicine

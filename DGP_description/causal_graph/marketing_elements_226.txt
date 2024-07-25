@@ -1,0 +1,6 @@
+Graph Nodes:
+Creative Strategy;Conversion Rate;Upselling;Subscription Models;E-books
+
+Graph Edges:
+1. Creative Strategy --- Conversion Rate
+2. Upselling --- E-books

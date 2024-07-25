@@ -1,0 +1,5 @@
+Graph Nodes:
+Brand Loyalty;Brand Personality;Sustainability Marketing;Email Marketing;Product Positioning
+
+Graph Edges:
+1. Sustainability Marketing --- Product Positioning

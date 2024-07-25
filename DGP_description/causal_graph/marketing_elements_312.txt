@@ -1,0 +1,11 @@
+Graph Nodes:
+Search Engine Rankings;Employer Branding;Sales Enablement;Brand Loyalty;Content Syndication
+
+Graph Edges:
+1. Employer Branding --> Search Engine Rankings
+2. Sales Enablement --> Search Engine Rankings
+3. Brand Loyalty --> Search Engine Rankings
+4. Brand Loyalty --> Employer Branding
+5. Content Syndication --> Employer Branding
+6. Brand Loyalty --> Sales Enablement
+7. Content Syndication --> Sales Enablement

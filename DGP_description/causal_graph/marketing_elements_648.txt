@@ -1,0 +1,5 @@
+Graph Nodes:
+Sales Enablement;Freemium Models;Creative Strategy
+
+Graph Edges:
+1. Sales Enablement --- Freemium Models

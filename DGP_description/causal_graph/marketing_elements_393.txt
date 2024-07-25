@@ -1,0 +1,6 @@
+Graph Nodes:
+CRM Integration;Content Syndication;Cart Abandonment
+
+Graph Edges:
+1. CRM Integration --> Content Syndication
+2. Cart Abandonment --> Content Syndication

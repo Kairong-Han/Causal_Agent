@@ -1,0 +1,5 @@
+Graph Nodes:
+Eco-Friendly Practices;Brand Voice;Video Production
+
+Graph Edges:
+1. Brand Voice --- Video Production

@@ -1,0 +1,6 @@
+Graph Nodes:
+Community Building;Webinars;Sales Funnel Optimization;Marketing Mix;Upselling
+
+Graph Edges:
+1. Community Building --- Webinars
+2. Sales Funnel Optimization --- Upselling

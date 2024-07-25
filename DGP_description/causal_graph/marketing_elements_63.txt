@@ -1,0 +1,5 @@
+Graph Nodes:
+Place Strategy;Loyalty Programs;Surveys
+
+Graph Edges:
+1. Place Strategy --- Loyalty Programs

@@ -1,0 +1,5 @@
+Graph Nodes:
+Click-Through Rate;Sales Collateral;Social Media Marketing
+
+Graph Edges:
+1. Click-Through Rate --- Sales Collateral
