@@ -1,5 +1,13 @@
 # Causal Agent based on Large Language Model 
 
+# Introduction
+The large language model (LLM) has achieved significant success across various domains. However, the inherent complexity of causal problems and causal theory poses challenges in accurately describing them in natural language, making it difficult for LLM to comprehend and use them effectively. Causal methods are not easily conveyed through natural language, which hinders LLM's ability to apply them accurately. Additionally, causal datasets are typically tabular, while LLM excels in handling natural language data, creating a structural mismatch that impedes effective reasoning with tabular data. This lack of causal reasoning capability limits the development of LLM.
+To address these challenges, we have equipped the LLM with causal tools within an agent framework, named the Causal Agent, enabling it to tackle causal problems. The causal agent comprises tools, memory, and reasoning modules. In the tool module, the causal agent calls Python code and uses the encapsulated causal function module to align tabular data with natural language. In the reasoning module, the causal agent performs reasoning through multiple iterations with the tools. In the memory module, the causal agent maintains a dictionary instance where the keys are unique names and the values are causal graphs.
+To verify the causal ability of the causal agent, we established a \underline{\textbf{Causal}} \underline{\textbf{T}}abular \underline{\textbf{Q}}uestion  \underline{\textbf{A}}nswer (CausalTQA) benchmark consisting of four levels of causal problems: variable level, edge level, causal graph level, and causal effect level. CausalTQA consists of about 1.4K for these four levels questions. Causal agent demonstrates remarkable efficacy on the four-level causal problems, with accuracy rates all above 80\%. Through verification on the real-world dataset QRData, the causal agent is 6\% higher than the original SOTA, demonstrating its strong generalization ability in real-world scenarios.
+
+![Alt text](image-2.png)
+
+
 # How to run the code
 
 ## data generation
@@ -86,3 +94,14 @@ ours code: main_QR.py
 ## resGPT
 
 file folder: baseline-RestGPT
+
+## Citation
+If our work assists your research, feel free to cite us using:
+
+
+    @article{han2024causal,
+    title={Causal agent based on large language model},
+    author={Han, Kairong and Kuang, Kun and Zhao, Ziyu and Ye, Junjian and Wu, Fei},
+    journal={arXiv preprint arXiv:2408.06849},
+    year={2024}
+    } 
